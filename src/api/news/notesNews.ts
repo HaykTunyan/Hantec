@@ -6,13 +6,6 @@ interface NewsResponse {
   // Add appropriate fields based on your response structure
 }
 
-interface NewsQueryParams {
-    limitSatart: number,
-    limitLenght: number,
-    lang: string,
-    slug: string
-}
-
 // Function to fetch news using query parameters
 export async function getLatestNotices(
     limitSatart: number,

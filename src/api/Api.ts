@@ -1,9 +1,4 @@
 import axios, { AxiosError, AxiosInstance, AxiosRequestConfig } from "axios";
-// import { store } from "../app/store";
-// import SnackbarUtils from "../util/SnackbarUtils";
-// import { isArgumentNotValid } from "../util/Utils";
-
-
 
 const RINEX_API_URL = "https://rinex-portal-uat.hantecgroup.com/api/";
 
