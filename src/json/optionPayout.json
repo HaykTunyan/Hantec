@@ -1,0 +1,47 @@
+[
+    {
+        "idCountry": "0",
+        "value": "RW",
+        "label": "Rewanda"
+    },
+    {
+        "idCountry": "1",
+        "value": "KE",
+        "label": "Kenya"
+    },
+    {
+        "idCountry": "2",
+        "value": "UG",
+        "label": "Uganda"
+    },
+    {
+        "idCountry": "3",
+        "value": "TZ",
+        "label": "Tanzania"
+    },
+    {
+        "idCountry": "4",
+        "value": "BI",
+        "label": "Burundi"
+    },
+    {
+        "idCountry": "5",
+        "value": "GH",
+        "label": "Ghana"
+    },
+    {
+        "idCountry": "6",
+        "value": "CM",
+        "label": "Cameroon"
+    },
+    {
+        "idCountry": "7",
+        "value": "ZM",
+        "label": "Zambia"
+    },
+    {
+        "idCountry": "8",
+        "value": "Benin",
+        "label": "BJ"
+    }
+]

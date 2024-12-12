@@ -1,0 +1,14 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M17.9587 24.3828H3.42578" stroke="#EBEEE2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.6916 26.8988C10.5372 26.8988 10.4121 26.7737 10.4121 26.6193C10.4121 26.4649 10.5372 26.3398 10.6916 26.3398" stroke="#EBEEE2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.6924 26.8988C10.8467 26.8988 10.9719 26.7737 10.9719 26.6193C10.9719 26.4649 10.8467 26.3398 10.6924 26.3398" stroke="#EBEEE2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M27.4616 7.61719H9.57495C8.95755 7.61719 8.45703 8.1177 8.45703 8.7351V17.6784C8.45703 18.2959 8.95755 18.7964 9.57495 18.7964H27.4616C28.079 18.7964 28.5795 18.2959 28.5795 17.6784V8.7351C28.5795 8.1177 28.079 7.61719 27.4616 7.61719Z" stroke="#EBEEE2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.45703 11.5299L12.3697 7.61719" stroke="#EBEEE2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28.5787 11.5299L24.666 7.61719" stroke="#EBEEE2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8.45703 14.8828L12.3697 18.7955" stroke="#EBEEE2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28.5787 14.8828L24.666 18.7955" stroke="#EBEEE2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.0004 15.0157C17.177 15.2478 17.4069 15.4339 17.6707 15.5581C17.9346 15.6824 18.2246 15.7411 18.5159 15.7294C19.4441 15.7294 20.1983 15.164 20.1983 14.4672C20.1983 13.7704 19.4441 13.2061 18.5159 13.2061C17.5877 13.2061 16.8379 12.6409 16.8379 11.9432C16.8379 11.2455 17.5913 10.6811 18.5159 10.6811C18.8073 10.6695 19.0972 10.7283 19.361 10.8525C19.6249 10.9767 19.8548 11.1627 20.0314 11.3947" stroke="#EBEEE2" stroke-linecap="square" stroke-linejoin="round"/>
+<path d="M18.5156 15.7305V16.5713" stroke="#EBEEE2" stroke-linecap="square" stroke-linejoin="round"/>
+<path d="M18.5156 9.83984V10.6806" stroke="#EBEEE2" stroke-linecap="square" stroke-linejoin="round"/>
+<path d="M18 6V4C18 3.44772 17.5523 3 17 3H4C3.44772 3 3 3.44772 3 4V28C3 28.5523 3.44772 29 4 29H17C17.5523 29 18 28.5523 18 28V21" stroke="#EBEEE2" stroke-linecap="square" stroke-linejoin="round"/>
+</svg>

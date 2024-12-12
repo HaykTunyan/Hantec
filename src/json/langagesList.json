@@ -1,0 +1,32 @@
+[
+    {
+        "value": "en-US", 
+        "label": "ENG", 
+        "image": "icon/country/usa.svg"
+    },
+    { 
+        "value": "fr-AF", 
+        "label": "FRA", 
+        "image": "icon/country/france.svg"
+    },
+    { 
+        "value": "vi-VN", 
+        "label": "VN", 
+        "image": "icon/country/france.svg"
+    },
+    { 
+        "value": "th-TH", 
+        "label": "TH", 
+        "image": "icon/country/france.svg"
+    },
+    { 
+        "value": "zh-CN", 
+        "label": "CHI", 
+        "image": "icon/country/france.svg"
+    },
+    { 
+        "value": "zh-HK", 
+        "label": "HK", 
+        "image": "icon/country/france.svg"
+    }
+]

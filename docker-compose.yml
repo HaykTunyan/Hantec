@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "${APP_PORT}:8080" # Проброс порта (локальный:контейнерный)
+    env_file:
+      - .env
+

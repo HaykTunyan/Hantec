@@ -1,0 +1,30 @@
+.select-container {
+    position: relative;
+  }
+  
+  .select-container select {
+    /* Hide the default dropdown arrow */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+  }
+  
+  .select-container:after {
+    content: '▼';
+    position: absolute;
+    top: 50%;
+    right: 1rem;
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+  
+  .option-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .option-content img {
+    margin-right: 8px;
+    width: 16px;
+    height: 16px;
+  }

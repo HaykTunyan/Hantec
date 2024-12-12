@@ -1,0 +1,117 @@
+[
+    {
+        "idCountry": "0",
+        "value": "Bangladesh",
+        "label": "Bangladesh"
+    },
+    {
+        "idCountry": "1",
+        "value": "Brazil",
+        "label": "Brazil"
+    },
+    {
+        "idCountry": "2",
+        "value": "China",
+        "label": "China"
+    },
+    {
+        "idCountry": "3",
+        "value": "Egypt",
+        "label": "Egypt"
+    },
+    {
+        "idCountry": "4",
+        "value": "Ghana",
+        "label": "Ghana"
+    },
+    {
+        "idCountry": "5",
+        "value": "HongKong",
+        "label": "HongKong"
+    },
+    {
+        "idCountry": "6",
+        "value": "India",
+        "label": "India"
+    },
+    {
+        "idCountry": "7",
+        "value": "Indonesia",
+        "label": "Indonesia"
+    },
+    {
+        "idCountry": "8",
+        "value": "Kenya",
+        "label": "Kenya"
+    },
+    {
+        "idCountry": "9",
+        "value": "Malaysia",
+        "label": "Malaysia"
+    },
+    {
+        "idCountry": "10",
+        "value": "New Zealand",
+        "label": "New Zealand"
+    },
+    {
+        "idCountry": "11",
+        "value": "Nigeria",
+        "label": "Nigeria"
+    },
+    {
+        "idCountry": "12",
+        "value": "Pakistan",
+        "label": "Pakistan"
+    },
+    {
+        "idCountry": "13",
+        "value": "Rwanda",
+        "label": "Rwanda"
+    },
+    {
+        "idCountry": "14",
+        "value": "South Africa",
+        "label": "South Africa"
+    },
+    {
+        "idCountry": "15",
+        "value": "Sri Lanka",
+        "label": "Sri Lanka"
+    },
+    {
+        "idCountry": "16",
+        "value": "Taiwan",
+        "label": "Taiwan"
+    },
+    {
+        "idCountry": "17",
+        "value": "Tanzania",
+        "label": "Tanzania"
+    },
+    {
+        "idCountry": "18",
+        "value": "Thailand",
+        "label": "Thailand"
+    },
+    {
+        "idCountry": "19",
+        "value": "UAE",
+        "label": "UAE"
+    },
+    {
+        "idCountry": "20",
+        "value": "Vietnam",
+        "label": "Vietnam"
+    },
+    {
+        "idCountry": "21",
+        "value": "Overseas",
+        "label": "Overseas"
+    },
+    {
+        "idCountry": "22",
+        "value": "Others",
+        "label": "Others"
+    }
+]

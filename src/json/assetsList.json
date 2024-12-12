@@ -1,0 +1,34 @@
+[
+    {
+        "value": "All",
+        "label": "All"
+    },
+    {
+        "value": "FX",
+        "label": "FX"
+    },
+    {
+        "value": "LLG",
+        "label": "LLG"
+    },
+    {
+        "value": "SIL",
+        "label": "SIL"
+    },
+    {
+        "value": "OIL",
+        "label": "OIL"
+    },
+    {
+        "value": "GAS",
+        "label": "GAS"
+    },
+    {
+        "value": "US-STOCK",
+        "label": "US-STOCK"
+    },
+    {
+        "value": "INDEX",
+        "label": "INDEX"
+    }
+]

@@ -1,0 +1,10 @@
+# Ignore Files
+src/components/canvasClock
+src/components/canvasClock/clock.tsx
+src/store
+src/services
+src/api
+src/containers/payout/modalConfirmPassword.tsx
+src/containers/payout/modalDeleteConfirmation.tsx
+src/containers/payout/modalDeleteReminder.tsx
+src/containers/payout/deleteSuccessfully.tsx

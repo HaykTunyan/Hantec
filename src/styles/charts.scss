@@ -1,0 +1,20 @@
+// Charts Style.
+
+.bay-chart {
+  .recharts-wrapper {
+    right: 30px;
+
+    .recharts-cartesian-axis-ticks {
+        margin-top: 19px;
+    }
+
+    .recharts-text {
+      font-family: Aeonik;
+      font-size: 11px;
+      font-weight: 400;
+      line-height: 11.55px;
+      letter-spacing: 0.04em;
+      text-align: center;
+    }
+  }
+}

@@ -1,0 +1,42 @@
+[
+    {
+      "label": "Tokyo",
+      "time": [
+          {
+              "open": "09:00",
+              "close": "15:00"
+          }
+      ],
+      "timezoneId": "Asia/Tokyo"
+  },
+  {
+      "label": "Hong Kong",
+      "time": [
+          {
+              "open": "09:30",
+              "close": "16:00"
+          }
+      ],
+      "timezoneId": "Asia/Hong_Kong"
+  },
+  {
+      "label": "London",
+      "time": [
+          {
+              "open": "08:00",
+              "close": "16:30"
+          }
+      ],
+      "timezoneId": "Europe/London"
+  },
+  {
+      "label": "New York",
+      "time": [
+          {
+              "open": "09:30",
+              "close": "16:00"
+          }
+      ],
+      "timezoneId": "America/New_York"
+  }
+  ]

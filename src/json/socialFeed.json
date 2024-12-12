@@ -1,0 +1,18 @@
+[
+    { 
+        "value": "All", 
+        "label": "All" 
+    },
+    { 
+        "value": "Facebook", 
+        "label": "Facebook" 
+    },
+    { 
+        "value": "Linkedin", 
+        "label": "Linkedin" 
+    },
+    { 
+        "value": "Youtube", 
+        "label": "Youtube" 
+    }
+  ]

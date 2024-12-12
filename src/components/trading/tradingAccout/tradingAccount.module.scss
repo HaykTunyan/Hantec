@@ -1,0 +1,46 @@
+.paginationContainer {
+  padding: 0 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  @media screen and (max-width: 768px){
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+  }
+}
+
+.page,
+.arrow {
+  list-style-type: none;
+  width: 35px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.arrow {
+  > a {
+    display: flex;
+  }
+}
+
+.li {
+  list-style-type: none;
+  width: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+}
+
+.activePage {
+  color: #C2C2C2;
+}

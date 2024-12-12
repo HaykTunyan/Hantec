@@ -1,0 +1,2477 @@
+{
+  "en": {
+    "dashboard": {
+      "title": "Dashboard",
+      "trading": "Trading",
+      "trade_accounts": "My Trade Accounts",
+      "trade_terminal": "Trade terminal",
+      "leverage_levels": "Leverage Levels",
+      "download_center": "Download Center",
+      "withdrawal": "Withdrawal",
+      "payout_methods": "Payout Methods",
+      "internal_transfer": "Internal Transfer",
+      "funding_history": "Funding History",
+      "new_live_account": "New Live Account",
+      "new_demo_account": "New Demo Account",
+      "last_log": "Last log",
+      "demo": "Demo",
+      "live": "Live",
+      "all_news": "All News",
+      "trade_demo": "Trade Demo",
+      "trade_live": "Trade",
+      "open_live": "Open Live",
+      "open_live_account": "Open Live Account",
+      "profile_settings": "Profile settings",
+      "log_out": "Log out",
+      "last_updated": "Last Updated",
+      "free_margins": "Free margins",
+      "min_read": "min read",
+      "daily_review": "Daily Review",
+      "buy_sell": "Buy & Sell",
+      "buy_sell_chart_buy": "Buy",
+      "buy_sell_chart_sell": "Sell",
+      "buy_sell_chart_y_axis": "Percentage",
+      "market_close": "Close",
+      "market_hongkong": "Hong Kong",
+      "market_london": "London",
+      "market_newyork": "New York",
+      "market_tokyo": "Tokyo",
+      "market_open": "Open",
+      "payment_methods": "Payment Methods",
+      "market_open_close_indicator": "In",
+      "market_stock_exchange": "Stock Exchange",
+      "market_trade_hours": "Market Trading Hours",
+      "my_performance": "My Performance",
+      "my_performance_equity": "Equity",
+      "my_performance_free_margin": "Free Margin",
+      "my_performance_open_pl": "Open P/L",
+      "my_performance_profitability": "Profitability",
+      "my_performance_today_pl": "Today P/L",
+      "news": "News",
+      "trades_distribution": "Trades Distribution",
+      "my_equity": "My equity",
+      "trade": "Trade",
+      "deposit": "Deposit",
+      "refresh_data": "Refresh Data",
+      "profit_&_loss": "Profit & loss",
+      "trade_distributions": "Trade distributions",
+      "my_trading_accounts": "My Trading Accounts",
+      "have_not_account": "You still haven’t any Trading Account",
+      "have_not_account_description": " To create a trading account, you must first have completed the creation of your account",
+      "account": "Account N",
+      "state": "State",
+      "currency": "Currency",
+      "today_pl": "Today P/L",
+      "open_pl": "Open P/L",
+      "equity": "Equity",
+      "free_margin": "Free Margin",
+      "hantec_news": "Hantec News",
+      "view_all": "View all",
+      "know_more": "Know more",
+      "deposit_description": "The deposit bonus will help you to trade and generate profits which is withdrawable after reaching the required lot volume conditions.",
+      "deposit_bonus": "Deposit Bonus",
+      "this_week’s": "This week’s",
+      "economic_calendar": "Economic Calendar",
+      "economic_calendar_decisions.": " Visit our Economic Calendar page regularly for the latest updates on major economic announcements. Get valuable insights to fine-tune your trading strategy in real-time. Click here to stay informed and make smarter trading decisions.",
+      "social_feed": "Social Feed",
+      "risk_disclaimer": "Risk Disclaimer",
+      "risk_disclaimer_descritpion": "CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 62% of retail investor accounts lose money when trading CFDs with this provider. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money",
+      "risk_click": "Please click here to view our Risk Disclosure",
+      "view_risk": "View our Risk Disclosure",
+      "footer_reserved": "© Hantec Group | All rights reserved",
+      "need_help": "Need help?",
+      "follow_us": "Follow us:",
+      "close": "Close",
+      "cancel_btn": "Cancel",
+      "view_our_risk_disclosure": "View our Risk Disclosure",
+      "trading_closed": "Trading closed",
+      "trading_open": "Trading open",
+      "funds_management": "Funds Management",
+      "modal_process_title": "Your Application is Processing",
+      "modal_process_description_pricess": "You will receive the login and password via email after your application is approved",
+      "modal_process_description_checked": "Please continue to complete the account registration process",
+      "middle_process_title": "Complete Account Registration ",
+      "middle_process_description": " Please continue to complete the account registration process",
+      "continue_btn": "Continue",
+      "modal_porcess_title": "Your Application is Processing...",
+      "modal_process_description_1": "You will receive the login and password via email after your application is approved.",
+      "modal_process_description_2": "Please continue to complete the account registration process",
+      "modal_process_description_3": "Please wait for a moment.",
+      "close_in": "Close in",
+      "open_in": "Open in",
+      "account_number": "Account N."
+    },
+    "founding": {
+      "title_page": "Funding History",
+      "account_number": "Account No",
+      "live": "Live",
+      "demo": "Demo",
+      "entries": "entries",
+      "showing": "Showing",
+      "ticket": "Ticket",
+      "account": "Account",
+      "deposit": "Deposit",
+      "withdrawal": "Withdrawal",
+      "credit_in": "Credit In",
+      "credit_out": "Credit Out",
+      "trade_date": "Trade Date",
+      "time": "Time",
+      "comment": "Comment",
+      "search": "Search",
+      "not_have_history": "No Funding Records Yet",
+      "not_history_title": "Once you start funding your account, your transaction history ",
+      "not_history_title_two": "will appear here.",
+      "depositing_funds": "Depositing Funds",
+      "adding_payout_method": "Adding a Payout Method",
+      "start_by": "Start by",
+      "or": "or"
+    },
+    "payout": {
+      "my_payout_methods": "Payment Methods",
+      "my_payoyt_subtitle": " Manage preferred payment methods for quick withdrawals.",
+      "set_up_payout": "Set Up Your Payment Method",
+      "bank_information": "Bank Information",
+      "deposit_and_withdraw_via": "",
+      "add": "Add",
+      "delete": "Delete",
+      "edit": "Edit",
+      "cancel": "Cancel",
+      "submit": "Submit",
+      "back": "Back",
+      "provider": "Provider",
+      "reminder": "Reminder",
+      "confirm": "Confirm",
+      "confirm_delete_title": "Please confirm if you want to delete the",
+      "delete_succesfully": "Delete successfully",
+      "is": "is",
+      "the": "The",
+      "removed": "removed",
+      "continue": "Continue",
+      "account_holder_name": "Account Holder Name",
+      "location": "Location",
+      "account_number": " Account Number",
+      "account": "Account",
+      "crypto_wallet": "Crypto Wallet",
+      "mobile_money": " Mobile Money",
+      "registration": "Registration",
+      "perfect_money": "Perfect Money",
+      "mobile_number": "Mobile Number",
+      "enter_your_number": "Enter your Number",
+      "add_your_perfect_money": "Add your Perfect Money",
+      "add_your_mobile_money": "Add your Mobile Money",
+      "add_new_payout_method": "Add a new payout method",
+      "add_new_payment_method": "Add a new payment method",
+      "my_saved_crypto_wallets": "My Saved Crypto Wallets",
+      "my_saved_mobile_money_accounts": " My Saved Mobile Money Accounts",
+      "my_saved_perfect_money_accounts": " My Saved Perfect Money Accounts",
+      "bank_information_description": "Deposit and withdraw directly using your bank account for quick and secure transactions.",
+      "crypto_wallet_description": "Manage deposits and withdrawals with your preferred cryptocurrency wallet for fast and efficient transfers.",
+      "mobile_money_description": "Use mobile money to easily deposit or withdraw funds directly to your account.",
+      "perfect_money_description": "Perfect Money provides an alternative method for depositing or withdrawing funds securely",
+      "add_bank_information": "Add your Bank Information",
+      "bank_location": "Bank Location",
+      "bank_name": "Bank Name",
+      "bank_address": "Bank Address",
+      "swift_Code": "SWIFT Code",
+      "enter_your_SWIFT_code": "Enter your SWIFT code",
+      "enter_your_IBAN" : "Enter your IBAN",
+      "enter_your_wallet_name": "Enter your Wallet Name",
+      "international_bank": "International Bank Account Number (IBAN)",
+      "enter_your_bank_address": "Enter your Bank Address",
+      "enter_your_account_number": "Enter your account number",
+      "enter_your_holder_name": "Enter your Holder Name",
+      "enter_your_wallet_address" : "Enter your wallet address",
+      "enter_your_location": "Enter your Location",
+      "enter_your_provider": "Enter your provider",
+      "dear_costumer": "Dear Customer",
+      "add_your_crypto_wallet": "Add your Crypto Wallet",
+      "crypto_wallet_terms": "Terms and Conditions",
+      "terms_1": "Thank you for choosing our USDT deposit and withdrawal services. To ensure smooth and secure transactions, we kindly ask you to pay attention to the following terms and conditions before binding your USDT wallet:",
+      "terms_2": "Purpose of Wallet Registration: Registering your USDT wallet is primarily for handling future withdrawal transactions. By registering this wallet, you agree to use it as one of the approved methods for withdrawals.",
+      "terms_3": "Limit on Number of Wallets:Each customer can register up to three USDT wallets. Please choose carefully when registering, ensuring that the wallets meet our company's requirements. We only accept wallets that are TRC20 compliant.",
+      "terms_4": "Ownership of Wallet:Customers must register a USDT wallet that they legally own. Registering a wallet owned by someone else or obtained illegally will violate our terms and may lead to service interruption.",
+      "terms_5": "Accuracy of InformationCustomers are responsible for ensuring that the wallet information provided is accurate. Our company is not liable for any loss or delay caused by incorrect information.",
+      "terms_7": "Changes and Updates:If you need to change or update your wallet information, please follow the official procedure provided by our company. 7. Disclaimer: Our company is not responsible for any loss or damage caused by incorrect information provided by customers, wallet security issues, or violation of laws and regulations",
+      "terms_6": "Security and Compliance:Customers are obligated to ensure that the registered wallet complies with relevant laws and regulations and is not involved in any illegal activities.",
+      "accept_and_continue": "Accept and Continue",
+      "wallet_name": "Wallet Name",
+      "wallet_address": "Wallet Address",
+      "manage_quick_withdrawals": "Manage preferred payout methods for quick withdrawals.",
+      "add_payout_method": "Add a new payout method",
+      "my_bank_accounts": "My Saved Bank Accounts",
+      "my_crypto_wallets": "My Saved Crypto Wallets",
+      "my_mobile_money_accounts": "My Saved Mobile Money Accounts",
+      "my_perfect_money_accounts": "My Saved Perfect Money Accounts",
+      "pending": "Pending",
+      "delete_confirmation": "Delete Confirmation",
+      "delete_confirmation_description": "Please enter your current password to delete your account",
+      "your_bank_information_account": "Your Bank Information Account",
+      "your_crypto_wallet_account": "Your Crypto Wallet Account",
+      "your_mobile_money_account": "Your Mobile Money Account",
+      "your_perfect_money_account": "Your Perfect Money Account"
+    },
+    "deposit": {
+      "deposit": "Deposit",
+      "select_deposit": " Select your Deposit Method",
+      "select_your_account": "Select your Account",
+      "exchange_rate": "Exchange Rate",
+      "currency": "Currency",
+      "next": "Next",
+      "back": "Back",
+      "great_jog": "Great Job!",
+      "your_deposit_request": "Your deposit request",
+      "is_processing": "is processing",
+      "deposit_crypto_descritoion_1": "USDT access disclaimer",
+      "deposit_crypto_descritoion_2": "In order for customers to enjoy more convenient and safe deposit and withdrawal services and meet the needs of market development, Hantec now provides USDT* deposit and withdrawal services, but you need to be clear and accept the following risk disclaimer:",
+      "deposit_crypto_descritoion_3": "*USDT is an encrypted digital currency based on stable value currency (USD) introduced by Tether Company. Ensure that all USDT assets accessed by customers are legally owned by individuals.",
+      "deposit_crypto_descritoion_4": "I understand that our company only accepts USDT of TRC20 system for access.",
+      "deposit_crypto_descritoion_5": "It is understood that before accessing USDT, customers need to register cryptocurrency wallets by themselves, cooperate with the company to provide relevant certificates, and strictly follow the procedures formulated by Hantec in the future access process.",
+      "deposit_crypto_descritoion_6": "It is understood that the customer shall be responsible for the damage caused by the wrong operation during USDT access (including but not limited to the wrong transfer address, inertia remittance *, wrong permission setting, lost wallet password, etc.).",
+      "deposit_crypto_descritoion_7": "* Inertial remittance: refers to the customer’s inertia remittance of cryptocurrency into the past collection wallet without submitting the deposit instruction from the customer center. This action has the opportunity to lose all your funds.",
+      "deposit_crypto_descritoion_8": "I understand that after receiving the withdrawal instruction from the customer, Hantec will remit the money according to the registered wallet of the customer. After transferring the cryptocurrency to the address of the customer’s wallet, Hantec does not have to bear the responsibility of receiving the money or not. If there is any loss, I will not make any claim to Hantec.",
+      "deposit_crypto_descritoion_9": "* Our company strongly recommends that customers make a small remittance after successfully registering their wallet address, so as to ensure that the registered wallet is correct and effective.",
+      "deposit_crypto_descritoion_10": "The customer agrees to bear the relevant deposit and withdrawal fees.",
+      "deposit_crypto_descritoion_11": "Customers understand that cryptocurrency assets are volatile products with high risk of loss.",
+      "deposit_crypto_descritoion_12": "Prices may fluctuate greatly at any time. As a result of these price fluctuations, the value of your assets may increase or decrease significantly at any particular moment.",
+      "deposit_crypto_descritoion_13": "Hantec will work out the exchange rate between USDT and USD according to the actual market situation.",
+      "deposit_crypto_descritoion_14": "I understand that our company has the right to refuse customers access by cryptocurrency without prior notice. In case of any dispute, the decision of our company shall be the final decision.",
+      "deposit_card_title": "Deposit now using the following payment methods",
+      "deposit_card_title_1": "Credit / Debit Card",
+      "deposti_card_title_2": "Bank Transfer",
+      "depostit_card_title_3": "Local Payment Methods",
+      "deposit_card_title_4": "Mobile Money",
+      "deposit_card_title_5": "E-wallet",
+      "deposit_crypto_currency": "Deposit via crypto currency now",
+      "deposit_amount": "Deposit Amount",
+      "minimum_deposit_amount:": "Minimum Deposit Amount:",
+      "enter_token_value": "Enter your Token hash value",
+      "hash_txid": "Hash/TxID",
+      "cancel": "Cancel",
+      "submit": "Submit",
+      "tether": "Tether",
+      "accept_and_continue": "Accept and Continue",
+      "account": "Account",
+      "select_account": "Select your Account",
+      "enter_deposit_amount": "Enter your deposit amount"
+    },
+    "internal_transfer": {
+      "title_transfer": " Internal Transfer",
+      "subtitle_transfer_desktop_one": "Only for Internal Transfer within all the live/commission",
+      "subtitle_transfer_desktop_two": "accounts under the same name",
+      "subtitle_transfer_mobile_one": "Only for Internal Transfer within all the live/",
+      "subtitile_transfer_mobile_two": "commission account under the same name",
+      "subtitle_transfer": "Only for Internal Transfer within all the live/commission accounts under the same name",
+      "card_infor": "Select the accounts between which you want to transfer the money.",
+      "commission": "commission",
+      "accounts_under": "accounts under",
+      "the_same_name": "the same name",
+      "select_accounts_between_you": "Select the accounts between which you",
+      "want_to": "want to",
+      "transfer_the_money": "transfer the money",
+      "reset_all": "Reset all",
+      "transfer_money": "Transfer Money",
+      "been_completed.": "Your internal transaction has been completed.",
+      "good_job": "Good job!",
+      "balance": "Balance:"
+    },
+    "withdrawal": {
+      "title_withdrawal": "Withdrawal",
+      "subtitle_withdrawal": "Withdrawal of funds from your account",
+      "select_payment_gateways": "Select Payment Gateways",
+      "bank_account": "Bank Account",
+      "mobile_money": "Mobile Money",
+      "perfect_money": "Perfect Money",
+      "usdt": " USDT",
+      "processing": "Processing",
+      "withdrawal_number": "Withdrawal Number",
+      "withdraw_processing_deskription": " Please note that until your current withdrawal request is processed, you will not be able to request a new withdrawal. We appreciate your patience and understanding.",
+      "contact_support": "Contact support",
+      "withdrawal_confirmation": " Withdrawal Confirmation",
+      "before_confirming_details": "Before confirming your withdrawal, please review and confirm the provided details.",
+      "reminder": "Reminder",
+      "before_proceeding_withdrawal": "Before proceeding with your withdrawal",
+      "check-out_our_reminder.": "check-out our Reminder.",
+      "client_Number": "Client Number",
+      "bank_Location": "Bank Location",
+      "bank_name": "Bank Name",
+      "bank_branch": "Bank Branch",
+      "international_bank": "International Bank Account Number (IBAN)",
+      "swift_code": "Swift Code",
+      "available_balance": "Available Balance",
+      "Currency": "Currency",
+      "withdraw_amount": "Withdraw Amount",
+      "receive_currency": "Receive Currency",
+      "submit": "Submit",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "crypto_wallet": "Crypto Wallet",
+      "select_crypto_wallet": "Select your Crypto Wallet",
+      "crypto_wallet_address": "Crypto Wallet Address",
+      "withdrawal_reminder": "Withdrawal Reminder",
+      "terms_and_conditions": "Terms and Conditions",
+      "terms_description_1": "Dear Customer,",
+      "terms_description_2": "Withdrawals can only be transferred to the client's own bank account in the country where the deposit was made.",
+      "terms_description_3": "To comply with anti-money laundering guidelines, when processing your withdrawal, we may need to provide your personal identification information to banks or remittance institutions. These institutions must also comply with local regulations on the use of personal data.",
+      "terms_description_4": "When you using Hantec online payment gateway for deposit, total trading margin must reach at least 50% of the total deposit, otherwise, 5% of the total deposit will be charged as administrative costs.",
+      "terms_description_5": "The total deposit amount and the total trading margin will be reset to zero after each withdrawal. If clients make a new deposit, the margin trading requirement will be calculated from the date of the new deposit.",
+      "terms_description_6": "The exchange rate of the remittance company is determined by market conditions and will not be notified to the client in advance. Bank and intermediary bank fees for remittance are borne by the client and deducted from the remittance amount.",
+      "terms_description_7": "In response to changes in the operating policies of the remittance company:",
+      "terms_description_8": "For withdrawals in other regions (exclude Nigeria and South Africa), the minimum withdrawal amount is 50 USD. The first 4 withdrawals are free of charge per month. The 5th withdrawal and after will incur a processing fee of 15 USD each time.",
+      "terms_description_9": "For withdrawals in Nigeria and South Africa, the minimum withdrawal amount is 10 USD. The first 4 withdrawals are free of charge per month. The 5th withdrawal and after will incur a processing fee of 15 USD each time.",
+      "terms_description_10": "For USDT, clients should submit withdrawal instructions before 9:00 (GMT+2). For Local Currencies, clients should submit withdrawal instructions before 13:00 (GMT+2). If the deadline is missed, the transefer will be made on the next trading day.",
+      "terms_description_11": "Please ensure that your bank account can receive the settlement currency you specified. Please carefully check your withdrawal information. Hantec will not be held responsible for any mistakes made by the client. After applying for a withdrawal, the platform will deduct the amount in real-time and execute the instruction at 12:00 noon. If the client still has positions and the account becomes negative due to market conditions, we reserve the right to return the pending withdrawal to the trading account, and the client needs to re-submit the withdrawal application.",
+      "tersm_description_12": "",
+      "terms_description_13": "",
+      "account": "Account",
+      "select_account": "Select your Account",
+      "client_number": "Client Number",
+      "select_client_number": "Select your Client Number",
+      "bank_location": "Bank Location",
+      "select_bank_location": "Select your Bank Location",
+      "select_bank_name": "Select your Bank Name",
+      "enter_bank_branch": "Enter you Bank Account",
+      "optional": "Optional",
+      "amount": "Amount",
+      "": ""
+    },
+    "profile": {
+      "menu": {
+        "settings": "Profile settings",
+        "info": "Your profile",
+        "residential_address": "Residential Address",
+        "mailing_address": "Mailing Address",
+        "delete_profile": "Delete profile"
+      },
+      "info": {
+        "title": "Your profile",
+        "description": "Menage your personal information",
+        "details_title": "Personal details",
+        "edit_action": "Edit",
+        "cancel_action": "Cancel",
+        "user_name": "User name",
+        "email_address": "Email Address",
+        "phone": "Phone",
+        "password": "Client Center Password",
+        "uneditable": "Uneditable",
+        "confirm_modal": {
+          "title": "Confirm Your Password",
+          "description": "Please enter your current password to modify your profile details.",
+          "current_password": "Current password",
+          "password_placeholder": "Enter your password",
+          "buttons": {
+            "cancel": "Cancel",
+            "continue": "Continue"
+          }
+        },
+        "edit": {
+          "email_title": "Edit email address",
+          "email_description": "This will be used for logging in and account recovery.",
+          "email_address": "Email Address",
+          "phone_title": "Edit phone number",
+          "phone_description": "This will be used for logging in and account recovery.",
+          "phone": "Phone",
+          "phone_placeholder": "Enter your phone number",
+          "phone_exists_error": "Phone number is already in use. Please use a different number.",
+          "password_title": "Edit password",
+          "password_description": "Password needs to be 8 characters and contain at least one alphabet and one number.",
+          "password_old": "Old password",
+          "password_new": "New password",
+          "password_new_placeholder": "Enter your password",
+          "password_repeat": "Repeat password",
+          "password_repeat_placeholder": "Repeat password",
+          "password_requirements": "At least 8 characters including 1 number, 1 letter and 1 symbol.",
+          "dont_match_error": "Passwords must match",
+          "buttons": {
+            "cancel": "Cancel",
+            "save": "Save"
+          }
+        }
+      },
+      "residential_address": {
+        "title": "Residential Address",
+        "description": "Please provide your residential address to indicate where you are currently residing.",
+        "country": "Country",
+        "city": "City",
+        "address": "Address",
+        "post_code": "Post code",
+        "edit_action": "Edit",
+        "cancel_action": "Cancel",
+        "buttons": {
+          "cancel": "Cancel",
+          "save": "Save"
+        }
+      },
+      "mailing_address": {
+        "title": "Mailing Address",
+        "description": "Please provide the mailing address for important communications",
+        "country": "Country",
+        "city": "City",
+        "address": "Address",
+        "post_code": "Post code",
+        "edit_action": "Edit",
+        "cancel_action": "Cancel",
+        "buttons": {
+          "cancel": "Cancel",
+          "save": "Save"
+        }
+      },
+      "delete": {
+        "title": "Delete profile",
+        "description": "Permanently delete your entire account, your private workspaces, and all data you have uploaded. This is irreversible.",
+        "buttons": {
+          "delete": "Delete"
+        },
+        "delete_modal": {
+          "title": "Account Deletion Confirmation",
+          "description": "You are being redirected to our Customer Service. Please contact them to complete the deletion of your profile.",
+          "buttons": {
+            "cancel": "Cancel",
+            "continue": "Continue"
+          }
+        }
+      },
+      "confirmation": {
+        "title": " Delete Confirmation",
+        "description": "Please enter your current password to delete your account"
+      }
+    },
+    "trading": {
+      "my_assets": "My assets",
+      "title": "My Trade accounts",
+      "assets_all": "All",
+      "assets_forex": "Forex",
+      "assets_metal": "Metal",
+      "assets_oil": "Oil",
+      "assets_index": "Index",
+      "add_new_button": "Add a New Live Account",
+      "add": "Add",
+      "add_new_button_Demo": "Add a New Demo Account",
+      "add_new_live_account": {
+        "limit_reached": {
+          "title": "You have reached the maximum amount of",
+          "account": "account.",
+          "title2": "Therefore, your application of adding",
+          "title3": "account is rejected.",
+          "buttons": {
+            "ok": "Ok"
+          }
+        },
+        "application_already_exists": {
+          "badge": "Live",
+          "title": "This action will apply to create an account",
+          "description": "Application already exists.",
+          "buttons": {
+            "cancel": "Close"
+          }
+        },
+        "application_submitted": {
+          "title": "Your application is received.",
+          "description": "The application will be approved within 1-2 working day(s)",
+          "buttons": {
+            "cancel": "Confirm"
+          }
+        },
+        "application_form": {
+          "badge": "Live",
+          "title": "This action will apply to create an account",
+          "texts": {
+            "header": "Dear Customer",
+            "description": "Thank you for using the one-click account opening service provided by Hantec. Before completing the relevant account opening process, we hereby explain the following",
+            "steps": [
+              {
+                "title": "Account Information",
+                "text": "We will set up the new account based on the information of the original account chosen by the customer and may request further information from customer. The account settings for the new account will remain consistent with the original account, including but not limited to the base currency, commission fees, and introducer affiliation."
+              },
+              {
+                "title": "Risk Statement",
+                "text": "Customers should understand the relevant trading rules and market risks, and should securely safeguard their account passwords, avoiding disclosure, if customers volutarily disclose their trading accounts or passwords to third parties, they shall bear the associated risks."
+              },
+              {
+                "title": "Asset Declaration",
+                "text": "Customers should truthfully declare their financial status. If the actual trading conditions do not match the financial status declared by the customer, the company reserves the right to request further declaration or explanation from the customer."
+              },
+              {
+                "title": "Non-U.S. Citizen and Taxpayer Declaration",
+                "text": "Customers agree to confirm and declare themselves as non-U.S. citizens and not within the scope of U.S. income tax liability."
+              },
+              {
+                "title": "Declaration of Personal Data Use",
+                "text": "Customers are aware and agree that Hantec Financial has an obligation or may be required to comply with certain laws, regulations, or other requirements (“reporting requirements”). Customers agree that Hantec Financial has the right to provide relevant personal data and information to relevant government departments or regulatory agencies."
+              }
+            ],
+            "drop_down_title": "Trading Account",
+            "buttons": {
+              "cancel": "Cancel",
+              "continue": "Confirm"
+            }
+          },
+          "buttons": {
+            "cancel": "Cancel"
+          }
+        }
+      },
+      "details_button": "Details",
+      "table_headers": {
+        "account_number": "Account N.",
+        "state": "State",
+        "state_values": {
+          "live": "Live",
+          "demo": "Demo"
+        },
+        "leverage": "Leverage",
+        "currency": "Currency",
+        "balance": "Balance",
+        "open_pl": "Open P/L",
+        "equity": "Equity",
+        "free_margin": "Free Margin"
+      },
+      "single_account": {
+        "account_number": "Account No.",
+        "live_tag": "Live",
+        "change_password": "Change Password",
+        "delete_trade_account": "Delete Trade Account",
+        "change_password_modal": {
+          "forgot_password": "Forgot password",
+          "title": "Change Your Password for Account",
+          "description": "Please enter your current password to modify your profile details.",
+          "current_password": "Current password",
+          "current_placeholder": "Enter your password",
+          "new_password": "New password",
+          "new_placeholder": "Enter your password",
+          "repeat_password": "Repeat password",
+          "repeat_placeholder": "Repeat password",
+          "passwords_match_error": "Passwords must match",
+          "password_error": "Current password is wrong",
+          "buttons": {
+            "cancel": "Cancel",
+            "save": "Save"
+          }
+        },
+        "forgot_password_modal": {
+          "title": "Recover your password",
+          "description": "We will sent you an email in response to your request to reset your password.",
+          "description_help": "Please follow the instructions in the email.",
+          "request_submitted": {
+            "title": "Confirmed",
+            "description": "Please check your email.",
+            "buttons": {
+              "continue_btn": "Continue"
+            }
+          },
+          "buttons": {
+            "cancel": "Cancel",
+            "send": "Send"
+          }
+        },
+        "tabs": {
+          "overview": "Overview",
+          "open_positions": "Open Positions",
+          "closed_positions": "Closed Positions"
+        },
+        "title": "My performance",
+        "update": "Last Updated",
+        "refresh_button": "Refresh Data",
+        "account_balance": {
+          "total-balance": "Total Balance",
+          "total-deposited": "Total Deposited",
+          "closed_pl": "Closed P/L",
+          "my_equity": "My equity",
+          "total-withdrawn": "Total Withdrawn",
+          "open_pl": "Open P/L",
+          "margin": "Margin",
+          "free-margin": "Free Margin",
+          "margin-level": "Margin Level",
+          "trades": {
+            "total_trades": "No. of Trades",
+            "profitability": "Profitability",
+            "average-win": "Average Win",
+            "average-loss": "Average Loss",
+            "average-order-duration": "Average Order Duration",
+            "profitable-long-trades": "Profitable Long Trades",
+            "profitable-short-trades": "Profitable Short Trades",
+            "best-trade-usd": "Best Trade (USD)",
+            "worst-trade-usd": "Worst Trade (USD)"
+          }
+        },
+        "assets": {
+          "my_assets": "My assets",
+          "all": "All",
+          "chart": {
+            "buy": "Buy",
+            "sell": "Sell"
+          },
+          "trade_distributions": "Trade distributions",
+          "trade_distribution": "Trade distribution"
+        },
+        "positions": {
+          "update": "Last Updated",
+          "refresh_button": "Refresh Data",
+          "download_button": "Download",
+          "day_tabs": {
+            "today": "Today",
+            "yesterday": "Yesterday",
+            "last-7-days": "Last 7 Days",
+            "last-30-days": "Last 30 Days",
+            "this-month": "This Month",
+            "last-month": "Last Month",
+            "custom-range": "Custom Range",
+            "select_date_range": "Select Date Range",
+            "days_count": "day(s)",
+            "buttons": {
+              "cancel": "Cancel",
+              "done": "Done"
+            }
+          },
+          "table_headers": {
+            "ticket": "Ticket",
+            "symbol": "Symbol",
+            "action": "Action",
+            "trade-date": "Trade Date",
+            "open-time": "Open Time",
+            "open-price": "Open Price",
+            "close-time": "Close Time",
+            "close-price": "Close Price",
+            "volume": "Volume",
+            "profit": "Profit",
+            "swaps": "Swaps",
+            "commissions": "Commissions"
+          }
+        }
+      }
+    },
+    "leverage_level": {
+      "title": "Leverage Level",
+      "description": "Adjusting the Leverage Level means changing the ratio of borrowed funds to your own capital. A higher leverage level allows you to control larger positions with less of your own money, increasing both potential gains and potential losses.",
+      "account_select_title1": "Select the account to which you want to apply",
+      "account_select_title2": "the leverage level",
+      "risks": {
+        "low": "Low risk",
+        "medium": "Medium risk",
+        "high": "High risk"
+      },
+      "risk_warning": {
+        "title": "Risk Warning",
+        "description": "Before completing your account registration",
+        "sidebar_open_text": "check‑out our Risk Disclosure",
+        "sidebar": {
+          "title": "Risk Warning",
+          "header": "Dear Customer",
+          "steps": [
+            "Raising the leverage ratio means that you can use less fund to have more volume of transactions. It also means that your trading profit and loss will be more volatile. Please identify the relevant risks when you apply.",
+            "If you apply to decline the leverage ratio, there is a chance that your margin requirements will rise and your position will be forced liquidation.Please pay attention to your margin level when you apply. We recommend that you only decline the leverage ratio when you do not hold any transaction.",
+            "If you apply for 1:400 leverage, the forced liquidation on workdays and weekends (holidays) is 50% of opening margin 1:400 leverage enables your investment deployment more flexible, but the ability to withstand short-term fluctuation will be greatly weakened. The responsibility of fully being aware of and undertaking relevant risk will be on your own."
+          ]
+        },
+        "agreement": "I have understood the above risk warnings",
+        "buttons": {
+          "cancel": "Cancel",
+          "save": "Save"
+        }
+      },
+      "request_already_in_process": "Your request of modifying leverage level is being processed.",
+      "request_submitted": {
+        "description": "Your request of modifying leverage level is being processed",
+        "buttons": {
+          "confirm": "Confirm"
+        }
+      }
+    },
+    "download_center": {
+      "hint": "Trading Platforms & Analysis Tools",
+      "title-first_half": "Incredible Trading Experience Fair",
+      "title-second_half": "Fair, stable and secure",
+      "mt5": {
+        "title": "MT5 - The Trusted Trading Platform",
+        "description": "MetaTrader 5 (MT5) is the most popular online trading platform in the retail market, offering comprehensive tools for various trading strategies.",
+        "buttons_title": "Download",
+        "buttons": {
+          "pc_version": "PC Version",
+          "discover_more": "Discover More"
+        },
+        "mt5_sidebar": {
+          "title": "MT5 - The Trusted Trading Platform",
+          "description": "MetaTrader 5 (MT5) is the most popular online trading platform in the retail market, offering comprehensive tools for various trading strategies.",
+          "key_features": {
+            "title": "Key Features",
+            "features": [
+              {
+                "title": "Technical Advantages",
+                "description": "Ultra-fast network connecting to our New York server, handling all traffic and high-frequency transactions."
+              },
+              {
+                "title": "Auto Trade",
+                "description": "Compatibility with third-party expert consultants for automated trading"
+              },
+              {
+                "title": "Comprehensive Market Coverage",
+                "description": "Trade foreign exchange, commodities, CFDs, and indices"
+              },
+              {
+                "title": "Flexible Charts and Tools",
+                "description": "Customize your trading table with preferred charts and analysis tools."
+              },
+              {
+                "title": "One-Click Trading",
+                "description": "Simple and fast one-click trading"
+              },
+              {
+                "title": "Enhanced Connectivity",
+                "description": "Extend functions with third parties to grow your MT5 platform."
+              }
+            ],
+            "mobile_version": {
+              "title": "Mobile version",
+              "description": "Access your trading platform anytime, anywhere. Manage accounts, view quotes, and take advantage of trading opportunities on the go.",
+              "steps": [
+                "Open the MT5 application after downloading.",
+                "Select \"Log in to a registered account.\"",
+                "Enter \"HantecMarketsV\" in the search box.",
+                "Choose \"HantecMarketsV-LIVE\" for Live accounts or \"HantecMarketsV-Demo\" for Demo accounts."
+              ],
+              "download": "Download",
+              "buttons": {
+                "pc_version": "PC Version"
+              }
+            }
+          }
+        }
+      },
+      "trading_central": {
+        "title": "Trading Central Analysis Tools",
+        "description": "Trading Central offers advanced analysis tools to enhance your trading decisions, providing real-time insights and strategies.",
+        "buttons_title": "Download",
+        "buttons": {
+          "discover_more": "Discover More"
+        },
+        "trading_central_sidebar": {
+          "title": "Trading Central Analysis Tools",
+          "description": "Trading Central offers advanced analysis tools to enhance your trading decisions, providing real-time insights and strategies.",
+          "key_features": {
+            "title": "Key Features",
+            "features": [
+              {
+                "title": "Analysts’ Opinions (AOI):",
+                "description": "Ultra-fast network connecting to our New York server, handling all traffic and high-frequency transactions.Real-time research, forecasts, and commentary overlaid on MT5 live charts."
+              },
+              {
+                "title": "Adaptive Candlestick Charts (AC)",
+                "description": "Compatibility with third-party expert consultants for automated trading"
+              },
+              {
+                "title": "Adaptive Divergence Convergence (ADC)",
+                "description": "An advanced version of MACD, adjusting its length according to market conditions for optimal trading strategies"
+              },
+              {
+                "title": "Real-Time Analysis Tools",
+                "description": "Updated reports every 2 hours on market conditions."
+              }
+            ],
+            "instructions": {
+              "download": "Download MT5",
+              "buttons": {
+                "pc_version": "PC Version",
+                "trading_central_login": "Login to Trading Central",
+                "plug_in": "Plug-in",
+                "how_to_use": "How to use"
+              }
+            }
+          }
+        }
+      },
+      "installation_guide": {
+        "title": "MT4 plugin installation guide",
+        "step1": "Download the MT4 installer from your Broker’s website",
+        "step2": "Double click on our installer, and select the preferred language",
+        "step3": "Click on Next",
+        "step4": "Please read the agreement carefully and select “I accept the agreement”. Click on Next",
+        "step5": "Our new installer will auto-detect the MT4 server you have downloaded. Please select the relevant MT4 platform and select “Install”",
+        "step6": "Finish the installation and open the MT4 platform (please make sure that you re-open the platform after the installation and re-login to your trading account).",
+        "step7": "Go to the Navigator window and click on the Indicator drop-down menu.",
+        "step8": "There you will find the TC indicators (Analyst Views, Adaptive Candlesticks and Adaptive Divergence Convergence). Drag & drop them onto your preferred chart to activate the technical analysis.",
+        "win7_additional_info": {
+          "title": "Additional Information for Win7 users",
+          "description": "Are you using the operating system Win7? Sometimes Win7 operating systems can’t detect the TC indicator location on your computer. Please follow the below steps to add them manually onto your MT4 platform:",
+          "step1": "First open your MT4 platform:",
+          "step2": "Select: File> Open data Folder",
+          "step3": "In the pop-up window have a look for the File ‘Origin’. Then copy the mt4 address in the Origin text document.",
+          "step3_note": {
+            "note": "Note",
+            "note_text": "If Origin File cannot be found, please select the folder ‘MQL4’ and copy the folder address."
+          },
+          "step4": "Go back to the TC indicator installer you have downloaded from your broker’s website.",
+          "step5": "Double click on our installer, and select the preferred language",
+          "step6": "Click on Next on the Welcome page:",
+          "step7": "Please read the agreement carefully and select “I accept the agreement”. Click on Next",
+          "step8": "Select ‘Browse’ and paste the folder location in the relevant url address box.",
+          "step9": "Finish the installation and open the MT4 platform (please make sure that you re-open the platform after the installation and re-login to your trading account).",
+          "step10": "Go to the Navigator window and click on the Indicator drop-down menu.",
+          "step11": "There you will find the TC indicators (Analyst Views, Adaptive Candlesticks and Adaptive Divergence Convergence). Drag & drop them onto your preferred chart to activate the technical analysis."
+        },
+        "buttons": {
+          "back": "Back",
+          "back_to_top": "Back to top"
+        }
+      }
+    },
+    "registration": {
+      "login": "Log in",
+      "welcome_title": "Welcome to Hantec",
+      "welcome_desc": "Thank you for being an early adopter. To start enjoying the benefits, let’s set up your Hantec Profile.",
+      "form": {
+        "full_name": "Full Name",
+        "e-mail": "E-mail",
+        "password": "Password",
+        "buttons": {
+          "sign_up": "Sign up"
+        },
+        "errors": {
+          "title": "Your password must contain",
+          "8_characters": "At least 8 characters",
+          "1_letter": "At least one letter",
+          "1_number": "At least one number",
+          "email_exists": "Email is already in use. Please try a different one or log in to your account."
+        }
+      },
+      "pin_check_form": {
+        "check_your_inbox": "Check your inbox",
+        "description": "We have sent you a secure code. Please check your e-mail to authenticate your account",
+        "error": "The code you entered is incorrect. Please try again.",
+        "buttons": {
+          "continue": "Continue",
+          "re_send": "Re-send code"
+        }
+      },
+      "registration_done": {
+        "title": "Well done",
+        "description": "Verify Now to Start Trading",
+        "buttons": {
+          "trade_live": "Verify Now",
+          "later": "I’ll do this later",
+          "demo": "Trade Demo"
+        }
+      }
+    },
+    "log_in": {
+      "title1": "Log in to",
+      "title2": "Client Center",
+      "or": "or",
+      "create_account": "create an Account",
+      "email_label": "E-mail",
+      "password_label": "Password",
+      "error_user": "Invalid email or password!",
+      "remember": "Remember Me",
+      "forgot_password": "Forgot password?",
+      "buttons": {
+        "login": "Login"
+      }
+    },
+    "forgot_login": {
+      "title1": "Forgot",
+      "title2": "Password",
+      "description": "Enter your email to receive a password reset link.",
+      "email_label": "E-mail",
+      "error_email": "Invalid email address. Please enter a valid registered email.",
+      "buttons": {
+        "back": "Back to Login",
+        "send": "Send Verification Email"
+      }
+    },
+    "reset_user": {
+      "title": "Password Reset",
+      "description": "Update your account password",
+      "for_acc": "For account",
+      "password_label": "New Password",
+      "passwords_match_error": "Passwords must match",
+      "confirm_password": "Confirm Password",
+      "for_acc_trading": "Password reset for account:",
+      "associated_email": "Associated email:",
+      "errors": {
+        "title": "Your password must contain",
+        "8_characters": "At least 8 characters",
+        "1_letter": "At least one letter",
+        "1_number": "At least one number"
+      },
+      "buttons": {
+        "reset": "Reset password"
+      }
+    },
+    "reset_trading_account_password": {
+      "title": "Password Reset",
+      "description": "Update your account password",
+      "for_acc": "Password reset for account:",
+      "associated_email": "Associated email:",
+      "password_label": "New Password",
+      "passwords_match_error": "Passwords must match",
+      "errors": {
+        "title": "Your password must contain",
+        "8_characters": "At least 8 characters",
+        "1_letter": "At least one letter",
+        "1_number": "At least one number"
+      },
+      "buttons": {
+        "reset": "Reset password"
+      }
+    },
+    "onboarding": {
+      "dashboard_info": {
+        "title": "Welcome",
+        "description": "You'll be able to start trading 24 h after completing your account registration — here's how to complete it",
+        "time": "min process",
+        "steps": [
+          {
+            "title": "Identity verification",
+            "description": "Securely confirm your identity with official documents."
+          },
+          {
+            "title": "Address proof",
+            "description": "Provide verified proof of residence for authentication."
+          },
+          {
+            "title": "Know your client process",
+            "description": "Share your investment experience for a secure experience."
+          }
+        ]
+      },
+      "exit": {
+        "exit": "Exit",
+        "save_exit": "Save and exit",
+        "title": "Your account opening is almost complete, are you sure you want to leave?",
+        "leaving": {
+          "title": "Thank you for your support.",
+          "description": "We will save your account opening progress, and you can continue anytime."
+        },
+        "button": {
+          "leave": "Leave",
+          "continue": "Continue"
+        }
+      },
+      "step_name": "Step",
+      "main_event": {
+        "account_verification_steps": {
+          "description1": "Getting started on",
+          "description2": "Hantec platform is easy.",
+          "account_verify": "Account Verification",
+          "steps": [
+            {
+              "title": "Identity verification",
+              "description": "Take the first step toward secure trading by verifying your identity with official documents."
+            },
+            {
+              "title": "Address proof",
+              "description": "Safeguard your trading journey by confirming your residential address. By meeting compliance standards, you can trade with confidence, knowing your account is fully secure."
+            },
+            {
+              "title": "Know your client process",
+              "description": "To better serve you and ensure a secure, compliant trading experience, we’d like to understand more about you and your financial background."
+            }
+          ],
+          "buttons": {
+            "lets_start": "Let's start"
+          },
+          "phone_request_form": {
+            "title": "Phone number",
+            "description": "Before completing your account registration, we need the last piece of information. Please provide us with your phone number.",
+            "phone_placeholder": "Enter your phone number",
+            "phone_exists_error": "Phone number is already in use. Please use a different number.",
+            "buttons": {
+              "cancel": "Cancel",
+              "continue": "Continue"
+            }
+          }
+        },
+        "id_verify": {
+          "title": "Account Verification",
+          "description1": "Upload the identity",
+          "description2": "document",
+          "instructions_title": "Please carefully review the instructions before uploading your identity document",
+          "instructions": [
+            "Ensure all four corners are visible",
+            "The document is clear and readble",
+            "Check your lighting to prevent glare or reflections",
+            "Avoid photocopies or paper-based documents"
+          ],
+          "hint": "Please note that documents not meeting these requirements will undergo manual review, potentially causing delays in processing.",
+          "buttons": {
+            "continue": "Continue"
+          },
+          "id_auto": {
+            "title": "Please select the issuing country and document type.",
+            "manual_text": "Can't upload your ID for automatic verification? Use",
+            "underline": "'Manual Verification'",
+            "buttons": {
+              "manual": "Manual Verification"
+            },
+            "disclaimer": {
+              "title": "Disclaimer",
+              "text1": "Please be advised that this process takes longer compared to the automated verification process.",
+              "text2": "Your request will be reviewed and verified by our Hantec Customer Support team.",
+              "text3": "We appreciate your patience and understanding as we ensure the highest standards of service and security.",
+              "buttons": {
+                "cancel": "Cancel",
+                "continue": "Continue"
+              }
+            }
+          },
+          "id_manual": {
+            "title": "Manual verification",
+            "description": "Please note that the manual review process for verification takes one to two working days(s) to complete",
+            "document_select": "Select document type for verification",
+            "id": "National ID",
+            "passport": "Passport",
+            "driver": "Driver's license",
+            "dont_have_documents": "Having issues? Start a chat, and our support team will help!",
+            "document_form": {
+              "first_name": "First Name",
+              "last_name": "Last Name",
+              "country": "Country/region",
+              "country_placeholder": "Country",
+              "birthday": "Date of Birth",
+              "day_placeholder": "Day",
+              "month_placeholder": "Month",
+              "year_placeholder": "Year",
+              "document_number_id": "National ID number",
+              "document_number_passport": "Passport number",
+              "document_number_driver": "Driving License number",
+              "document_upload": "Upload your document",
+              "document_image_front": "Upload Front side",
+              "document_image_back": "Upload Back side",
+              "document_upload_hint": "JPEG, PNG and PDF only, whit max size of 20MB"
+            },
+            "buttons": {
+              "back_to_auto": "Back to Automatic Verification",
+              "continue_btn": "Continue"
+            },
+            "same_id_modal": {
+              "title": "This document has already been registered.",
+              "description": "Please verify if you have previously used this document to register a trading account.",
+              "buttons": {
+                "ok": "Ok"
+              }
+            }
+          }
+        },
+        "address_verify": {
+          "disclaimer_modal": {
+            "title": "Disclaimer",
+            "text1": "For security purposes, we typically request address proof for verification.",
+            "text2": "However, we recognize that you may not have it readily available.",
+            "text3": "Therefore, at this step, you can skip to upload the address proof if you do not currently possess it.",
+            "buttons": {
+              "skip": "Skip",
+              "continue": "Continue"
+            }
+          },
+          "deposit_limit_modal": {
+            "title": "Deposit limit restrictions",
+            "description": "If you decide to skip uploading the address proof, your deposit limit will be restricted to USD 1000 per transaction.",
+            "buttons": {
+              "back": "Back",
+              "confirm": "Confirm"
+            }
+          },
+          "title": "Account Verification",
+          "description1": "Upload a proof of",
+          "description2": "residential address",
+          "address_auto": {
+            "title": "Choose an address document type to add",
+            "manual_text": "Can't upload your document for automatic verification? Use",
+            "manual_btn": "'Manual Verification'",
+            "buttons": {
+              "manual": "Manual Verification"
+            }
+          },
+          "address_manual": {
+            "title": "Manual verification",
+            "description": "Please note that the manual review process for verification takes one to two working days(s) to complete",
+            "label": "Residential Address",
+            "upload_document": "Upload your document",
+            "upload_document_placeholder": "Upload the side with your address",
+            "hint": "JPEG, PNG and PDF only, whit max size of 20MB",
+            "buttons": {
+              "back": "Back to Automatic Verification",
+              "continue": "Continue"
+            }
+          }
+        },
+        "net_worth_verify": {
+          "title": "Account Information",
+          "platform_inform": "Below is the trading platform you will use",
+          "leverage_label": "Leverage",
+          "leverage_warning": "Reminder: Please note that the cut off rate of 1 to 400 leverage will be increased to 50%. For more details, please refer to Hantec Financial website.",
+          "investment_title": "Investment Experience",
+          "income_label": "Annual Income",
+          "net_worth_label": "Liquid Net Worth",
+          "occupation_label": "Occupation",
+          "occupations": [
+            "Employed",
+            "Unemployment",
+            "Self Employed",
+            "Retired",
+            "Student"
+          ],
+          "source": "Source of Funds",
+          "sources": [
+            "Saving",
+            "Employment",
+            "Inheritance",
+            "Investment",
+            "Property / Assets"
+          ],
+          "trading_experience": "Trading Experience of Leveraged Financial Product",
+          "experiences": [
+            "No",
+            "1-3 years",
+            "3-5 years",
+            "5-8 years",
+            "Over 8 years"
+          ],
+          "average_size": "Average Transaction Size",
+          "average_amount": "Average Transaction Amount",
+          "style": "Trading Style",
+          "styles": [
+            "Robot",
+            "Manual",
+            "Scapler"
+          ],
+          "self_declaration": "Self-declaration - Individual",
+          "us_citizen": {
+            "title": "Are you a US citizen for tax purposes?",
+            "yes": "Yes",
+            "no": "No",
+            "no_us_citizen": "We regret to inform that applications from U.S. citizens are not accepted"
+          },
+          "tin": "Taxpayer identification Number (TIN)",
+          "optional": "Optional",
+          "terms": {
+            "textstart": "I/We have read, understood and agreed to be bound by",
+            "financial_service": "“Financial Service Guide”",
+            "product_disclosure": "“Product Disclosure Statement”",
+            "and": "and",
+            "terms_conditions": "“Term and Conditions”",
+            "textEnd": "of Hantec Markets (V) Company Limited"
+          },
+          "buttons": {
+            "continue_btn": "Continue"
+          }
+        },
+        "verify_done": {
+          "title1": "Well done!",
+          "title2": "That’s all we need",
+          "description": "We’ll let you know as soon as we’re finished checking your domuments. Once you’re verified, you’ll get the login informations for the MT5 platform",
+          "buttons": {
+            "explore": "Explore Hantec Platform"
+          }
+        },
+        "account_approved": {
+          "title": "Notices to Hantec Clients",
+          "header": "To our valued customers,",
+          "inform": "Foreign Exchange & Bullion & CFD trading is a high-risk investment. To protect your interests, we suggest you to understand the local laws and regulations before you trade. Please carefully read the statements before you use your e-trading account, you will be acknowledge that you have understood the details of the trading and the risks involved. Your e-trading account will also be activated consequently.",
+          "notices_opening": {
+            "title": "Account Opening",
+            "steps": [
+              "I have read and understood the full contents of the Client Agreement: <Terms and Conditions> <Financial Service Guide> <Product Information Statement> before submitting the account opening documents to us and agreed to be bound by it.",
+              "I understood that I should seek independent legal, financial and taxation advice in relation to the Terms and Conditions and full contents of the Client Agreement before submitting the account opening documents to us.",
+              "I have learned how to use the e-trading platform for trading, and check the account balance and related information via the internet.",
+              "Hantec Markets (V) Company Limited is a trading platform service provider and does not offer any wealth management products and asset management service.",
+              "I have understood that all the risks associated with a third party who is authorized to operate a trading account, I remain liable for any form of financial and legal responsibility arising from the third party who is authorized to operate the account (including the provision of trading password to a third party)."
+            ]
+          },
+          "notices_management": {
+            "title": "Account Management",
+            "description": "I understand the trading password is my personal asset and I should be kept under safe custody. I should keep the trading password properly, and do not tell my password to anybody. I should inform Hantec Markets (V) Company Limited immediately if my password has been divulged."
+          },
+          "notice_trading": {
+            "title": "Trading information",
+            "steps": [
+              "I understood that all investment recommendations are for reference only. No one can always predict the direction of the market correctly. I am responsible for the trading decisions made, and would bear all the consequences.",
+              "I understood the initial margin of this e-trading platform for each new contract.",
+              "I understood that when you take any contract overnight, you may need to pay for a roll-over interest.",
+              "I understood that Hantec Markets (V) Company Limited will close out the contracts and liquidate the positions (including the locking positions) without any consent in advance if you maintenance margin is below the standard, so as to minimize any unnecessary risk due to the market fluctuation.",
+              "I understood that under normal situation, Hantec Markets (V) Company Limited will provide its normal bid-ask spread. However, the spread is subject to changes due to market fluctuation and other factors. The spread & range to accept orders will change from time to time subject to the market fluctuation. I have note that the execution price of the stop-loss order may deviate from the price they have in mind due to market volatility.",
+              "I need to bear the risk of being not able to conduct transactions via the e-trading platform."
+            ]
+          },
+          "notice_risk": {
+            "title": "Risk Disclosure",
+            "steps": [
+              "I have read and understood the risk disclosure statement, which is written in the supplementary client agreement and all the risks involved in Foreign Exchange & Bullion & CFD trading before opening an account.",
+              "I understand the risk of leverage Foreign Exchange & Bullion & CFD trading is very high because the minimum initial margin is far below from the contract value of Foreign Exchange & Bullion & CFD, and hence the trading risk is increased due to the high leverage."
+            ]
+          },
+          "agreement": "I understand and accept all the above statements.",
+          "buttons": {
+            "confirm": "Confirm"
+          }
+        }
+      }
+    },
+    "rate_modal": {
+      "title": "Hey there, you are using the new version of the Hantec Client Portal",
+      "description": "So we can continuously improve, we'd love your feedback on the new features and design. Please click the below link to fill in the survey. It should only take 1 minute!",
+      "buttons": {
+        "skip": "Skip",
+        "rate_now": "Rate Now"
+      }
+    },
+    "demo_modal": {
+      "title": "You're Entering Demo Mode",
+      "no_demo_account": {
+        "title1": "Would you like",
+        "title2": "to create a demo account?"
+      },
+      "description": [
+        "In Demo Mode, you're trading with virtual funds.",
+        "Use this mode to practice and explore the platform.",
+        "No real money is involved."
+      ],
+      "buttons": {
+        "cancel": "Cancel",
+        "Continue": "Continue"
+      },
+      "no_demo_buttons": {
+        "cancel": "Cancel",
+        "yes": "Yes"
+      }
+    },
+    "demo_dashboard_banner": {
+      "title": "You are currently using a demo account.",
+      "description": "This account is for demonstration purposes only. Any changes or data entered may not be saved or reflected in a live account. Please contact support for more information."
+    },
+    "rejected_modal": {
+      "title": "Application Declined",
+      "description": "Your previous application has been rejected. Click 'Create New Account' to begin a new application process.",
+      "buttons": {
+        "cancel": "Cancel",
+        "Continue": "Create New Account"
+      }
+    }
+  },
+  "fr": {
+    "dashboard": {
+      "title": "Tableau de bord",
+      "trading": "Commerce",
+      "trade_accounts": "Mes comptes commerciaux",
+      "trade_terminal": "Terminal commercial",
+      "leverage_levels": "Niveaux d'effet de levier",
+      "download_center": "Centre de téléchargement",
+      "buy_sell": "Acheter & Vendre",
+      "withdrawal": "Retrait",
+      "payout_methods": "Méthodes de paiement",
+      "payment_methods": "Mode de Paiement",
+      "internal_transfer": "Transfert interne",
+      "funding_history": "Historique du financement",
+      "new_live_account": "Nouveau compte live",
+      "new_demo_account": "Nouveau compte démo",
+      "last_log": "Dernier",
+      "demo": "Démo",
+      "live": "En direct",
+      "all_news": "Toutes les actualités",
+      "trade_demo": "Démo commerciale",
+      "trade_live": "Commerciale",
+      "profile_settings": "Paramètres du profil",
+      "log_out": "Se déconnecter",
+      "last_updated": "Dernière mise à jour",
+      "free_margins": "Marges libres",
+      "min_read": "min de lecture",
+      "daily_review": "Revue quotidienne",
+      "buy_sell_chart_buy": "Acheter",
+      "buy_sell_chart_sell": "Vendre",
+      "buy_sell_chart_y_axis": "Pourcentage",
+      "market_close": "Fermer",
+      "market_hongkong": "Hong Kong",
+      "market_london": "Londres",
+      "market_newyork": "New York",
+      "market_tokyo": "Tokyo",
+      "market_open": "Ouvrir",
+      "market_open_close_indicator": "Dans",
+      "market_stock_exchange": "Bourse",
+      "market_trade_hours": "Heures de Trading du Marché",
+      "my_performance": "Ma Performance",
+      "my_performance_equity": "Équité",
+      "my_performance_free_margin": "Marge Libre",
+      "my_performance_open_pl": "P/L Ouvert",
+      "my_performance_profitability": "Rentabilité",
+      "my_performance_today_pl": "P/L Aujourd'hui",
+      "news": "Nouvelles",
+      "trades_distribution": "Répartition des Transactions",
+      "my_equity": "Mon Équité",
+      "trade": "Commerce",
+      "open_live": "Ouvert en direct",
+      "open_live_account": "Ouvrir un compte en direct",
+      "deposit": "Dépôt",
+      "cancel_btn": "Annuler",
+      "have_not_account": "Vous n'avez toujours pas de compte de trading",
+      "have_not_account_description": "Pour créer un compte de trading, vous devez d'abord avoir terminé la création de votre compte",
+      "refresh_data": "Actualiser les Données",
+      "profit_&_loss": "Profit & Perte",
+      "trade_distributions": "Répartition des Transactions",
+      "my_trading_accounts": "Mes Comptes de Trading",
+      "account": "Compte N",
+      "state": "État",
+      "currency": "Devise",
+      "today_pl": "P/L Aujourd'hui",
+      "open_pl": "P/L Ouvert",
+      "equity": "Équité",
+      "free_margin": "Marge Libre",
+      "hantec_news": "Actualités Hantec",
+      "view_all": "Voir tout",
+      "know_more": "En savoir plus",
+      "close": "Fermer",
+      "deposit_description": "Le bonus de dépôt vous aidera à trader et générer des profits pouvant être retirés après avoir atteint le volume requis de lots.",
+      "deposit_bonus": "Bonus de Dépôt",
+      "this_week’s": "Cette semaine",
+      "economic_calendar": "Calendrier Économique",
+      "economic_calendar_decisions.": "Visitez régulièrement notre page de calendrier économique pour les dernières mises à jour des annonces économiques majeures. Obtenez des informations précieuses pour affiner votre stratégie de trading en temps réel. Cliquez ici pour rester informé et prendre des décisions de trading plus intelligentes.",
+      "social_feed": "Fil Social",
+      "risk_disclaimer": "Avertissement de Risque",
+      "risk_disclaimer_descritpion": "Les CFD sont des instruments complexes et présentent un risque élevé de perte rapide d'argent en raison de l'effet de levier. 62 % des comptes d'investisseurs particuliers perdent de l'argent lorsqu'ils négocient des CFD avec ce fournisseur. Vous devriez envisager si vous comprenez comment fonctionnent les CFD et si vous pouvez vous permettre de prendre le risque élevé de perdre votre argent.",
+      "risk_click": "Cliquez ici pour voir notre Déclaration de Risque",
+      "view_risk": "Voir notre Déclaration de Risque",
+      "footer_reserved": "© Hantec Group | Tous droits réservés",
+      "need_help": "Besoin d'aide ?",
+      "follow_us": "Suivez-nous :",
+      "view_our_risk_disclosure": "Consultez notre déclaration de risque",
+      "trading_closed": "Trading fermé",
+      "trading_open": "Trading ouvert",
+      "funds_management": "Gestion des Fonds",
+      "modal_process_title": "Votre demande est en cours de traitement",
+      "modal_process_description_pricess": "Vous recevrez le login et le mot de passe par email après l'approbation de votre demande",
+      "modal_process_description_checked": "Veuillez continuer pour compléter l'inscription du compte",
+      "middle_process_title": "Compléter l'Inscription du Compte",
+      "middle_process_description": "Veuillez continuer pour compléter l'inscription du compte",
+      "continue_btn": "Continuer",
+      "modal_porcess_title": "Votre demande est en cours de traitement...",
+      "modal_process_description_1": "You will receive the login and password via email after your application is approved.",
+      "modal_process_description_2": "Please continue to complete the account registration process",
+      "modal_process_description_3": "Please wait for a moment.",
+      "close_in": "Fermer",
+      "open_in": "Ouvert dans",
+      "account_number": "N° de Compte"
+    },
+    "founding": {
+      "title_page": "Historique des Financements",
+      "account_number": "N° de Compte",
+      "live": "Live",
+      "demo": "Démo",
+      "entries": "entrées",
+      "showing": "Affichage",
+      "ticket": "Ticket",
+      "account": "Compte",
+      "deposit": "Dépôt",
+      "withdrawal": "Retrait",
+      "credit_in": "Crédit Entrant",
+      "credit_out": "Crédit Sortant",
+      "trade_date": "Date de Transaction",
+      "time": "Heure",
+      "comment": "Commentaire",
+      "search": "Rechercher",
+      "not_have_history": "Aucun dossier de financement ",
+      "not_history_title_two": "pour le moment",
+      "depositing_funds": "Dépôt de fonds",
+      "adding_payout_method": "Ajout d'un mode de paiement",
+      "start_by": "Commencer par",
+      "or": "ou"
+    },
+    "payout": {
+      "my_payout_methods": "Mode de Paiement",
+      "my_payoyt_subtitle": "Gérez vos méthodes de paiement préférées pour des retraits rapides.",
+      "set_up_payout": "Configurez votre mode de paiement",
+      "bank_information": "Informations Bancaires",
+      "deposit_and_withdraw_via": "Dépôt et Retrait via",
+      "add": "Ajouter",
+      "back": "Dos",
+      "provider": "Fournisseur",
+      "reminder": "Rappels",
+      "confirm": "Confirmer",
+      "confirm_delete_title": "Veuillez confirmer si vous souhaitez supprimer le",
+      "delete_succesfully": "Supprimer avec succès",
+      "is": "est",
+      "the": "le",
+      "removed": "supprimé",
+      "continue": "Continuer",
+      "account_holder_name": "Nom du titulaire du compte",
+      "location": "Emplacement",
+      "delete": "Supprimer",
+      "edit": "Modifier",
+      "cancel": "Annuler",
+      "submit": "Soumettre",
+      "mobile_number": "Numéro de portable",
+      "enter_your_number": "Entrez votre numéro",
+      "account_number": " Numéro de compte",
+      "registration": "Inscription",
+      "crypto_wallet": "Portefeuille Crypto",
+      "mobile_money": "Argent Mobile",
+      "perfect_money": "Perfect Money",
+      "add_your_perfect_money": "Ajoutez votre Argent Parfait",
+      "add_your_mobile_money": "Ajoutez votre Argent Mobile",
+      "add_new_payout_method": "Ajouter une nouvelle méthode de paiement",
+      "add_new_payment_method": "Ajouter un nouveau mode de paiement",
+      "my_saved_crypto_wallets": "Mes Portefeuilles Crypto Sauvegardés",
+      "my_saved_mobile_money_accounts": "Mes Comptes Mobile Money Sauvegardés",
+      "my_saved_perfect_money_accounts": "Mes Comptes Perfect Money Sauvegardés",
+      "bank_information_description": "Déposez et retirez directement en utilisant votre compte bancaire pour des transactions rapides et sécurisées.",
+      "crypto_wallet_description": "Gérez les dépôts et retraits avec votre portefeuille de cryptomonnaie préféré pour des transferts rapides et efficaces.",
+      "mobile_money_description": "Utilisez Mobile Money pour facilement déposer ou retirer des fonds directement vers votre compte.",
+      "perfect_money_description": "Perfect Money offre une méthode alternative pour déposer ou retirer des fonds en toute sécurité.",
+      "add_bank_information": "Ajoutez vos informations bancaires",
+      "bank_location": "Emplacement de la Banque",
+      "bank_name": "Nom de la Banque",
+      "bank_address": "Adresse de la Banque",
+      "swift_Code": "Code SWIFT",
+      "enter_your_bank_address": "Entrez l'adresse de votre banque",
+      "account": "Compte",
+      "international_bank": "Numéro de Compte Bancaire International (IBAN)",
+      "enter_your_IBAN" : "Entrez votre IBAN",
+      "enter_your_SWIFT_code": "Entrez votre code SWIFT",
+      "enter_your_account_number": "Entrez votre numéro de compte",
+      "enter_your_wallet_name": "Entrez le nom de votre portefeuille",
+      "enter_your_wallet_address" : "Entrez l'adresse de votre portefeuille",
+      "enter_your_location": "Entrez votre emplacement",
+      "enter_your_provider": "Entrez votre fournisseur",
+      "enter_your_holder_name": "Entrez votre nom de titulaire",
+      "add_your_crypto_wallet": "Ajoutez votre Portefeuille Crypto",
+      "crypto_wallet_terms": "Termes et Conditions",
+      "dear_costumer": "Cher client",
+      "terms_1": "Merci d'avoir choisi nos services de dépôt et retrait en USDT. Pour garantir des transactions fluides et sécurisées, nous vous demandons de bien vouloir prêter attention aux conditions générales suivantes avant de lier votre portefeuille USDT :",
+      "terms_2": "But de l'enregistrement du portefeuille : Enregistrer votre portefeuille USDT sert principalement à gérer les futures transactions de retrait. En enregistrant ce portefeuille, vous acceptez de l'utiliser comme l'une des méthodes approuvées pour les retraits.",
+      "terms_3": "Limite du nombre de portefeuilles : Chaque client peut enregistrer jusqu'à trois portefeuilles USDT. Veuillez choisir avec soin lors de l'enregistrement, en vous assurant que les portefeuilles répondent aux exigences de notre entreprise. Nous n'acceptons que les portefeuilles conformes au TRC20.",
+      "terms_4": "Propriété du portefeuille : Les clients doivent enregistrer un portefeuille USDT dont ils sont légalement propriétaires. Enregistrer un portefeuille appartenant à une autre personne ou obtenu illégalement viole nos conditions et peut entraîner une interruption de service.",
+      "terms_5": "Exactitude des informations : Les clients sont responsables de s'assurer que les informations fournies pour le portefeuille sont exactes. Notre entreprise n'est pas responsable de toute perte ou retard causé par des informations incorrectes.",
+      "terms_6": "Sécurité et conformité : Les clients sont tenus de s'assurer que le portefeuille enregistré est conforme aux lois et règlements pertinents et n'est impliqué dans aucune activité illégale.",
+      "terms_7": "Modifications et mises à jour : Si vous devez modifier ou mettre à jour les informations de votre portefeuille, veuillez suivre la procédure officielle fournie par notre entreprise. Clause de non-responsabilité : Notre société n'est pas responsable des pertes ou dommages causés par des informations incorrectes fournies par les clients, des problèmes de sécurité des portefeuilles ou des violations des lois et règlements.",
+      "accept_and_continue": "Accepter et Continuer",
+      "wallet_name": "Nom du Portefeuille",
+      "wallet_address": "Adresse du Portefeuille",
+      "manage_quick_withdrawals": "Gérez les méthodes de paiement préférées pour des retraits rapides.",
+      "add_payout_method": "Ajouter une nouvelle méthode de paiement",
+      "my_bank_accounts": "Mes Comptes Bancaires Sauvegardés",
+      "my_crypto_wallets": "Mes Portefeuilles Crypto Sauvegardés",
+      "my_mobile_money_accounts": "Mes Comptes Mobile Money Sauvegardés",
+      "my_perfect_money_accounts": "Mes Comptes Perfect Money Sauvegardés",
+      "pending": "En attente",
+      "delete_confirmation": "Confirmation de Suppression",
+      "delete_confirmation_description": "Veuillez entrer votre mot de passe actuel pour supprimer votre compte"
+    },
+    "deposit": {
+      "deposit": "Dépôt",
+      "select_deposit": "Sélectionnez votre méthode de dépôt",
+      "select_your_account": "Sélectionnez votre compte",
+      "exchange_rate": "Taux de Change",
+      "currency": "Devise",
+      "next": "Suivant",
+      "back": "Retour",
+      "great_jog": "Bon travail!",
+      "your_deposit_request": "Votre demande de dépôt",
+      "is_processing": "est de traitement",
+      "deposit_crypto_descritoion_1": "Avertissement d'accès USDT",
+      "deposit_crypto_descritoion_2": "Afin que les clients bénéficient de services de dépôt et de retrait plus pratiques et sécurisés, et répondent aux besoins du développement du marché, Hantec propose désormais des services de dépôt et de retrait en USDT, mais vous devez accepter l'avertissement de risque suivant :",
+      "deposit_crypto_descritoion_3": "* L'USDT est une monnaie numérique cryptée basée sur la valeur stable (USD) introduite par Tether. Assurez-vous que tous les actifs en USDT sont détenus légalement.",
+      "deposit_crypto_descritoion_4": "Le client comprends que notre société n'accepte que les USDT du système TRC20.",
+      "deposit_crypto_descritoion_5": "Les clients doivent s'enregistrer eux-mêmes pour un portefeuille de cryptomonnaie, fournir les documents nécessaires, et suivre strictement les procédures d'accès futures établies par Hantec.",
+      "deposit_crypto_descritoion_6": "Le client est responsable de tout dommage résultant d'une mauvaise manipulation lors de l'accès aux USDT (y compris une adresse de transfert erronée, transfert d'inertie*, paramètres de permissions incorrects, perte de mot de passe, etc.).",
+      "deposit_crypto_descritoion_7": "* Transfert d'inertie : se réfère au transfert automatique de cryptomonnaie vers un portefeuille de collecte précédent sans avoir soumis d'instructions de dépôt depuis le centre client, ce qui pourrait entraîner la perte de tous les fonds.",
+      "deposit_crypto_descritoion_8": "Le client comprends qu'après avoir reçu une instruction de retrait, Hantec enverra l'argent conformément au portefeuille enregistré. Après le transfert, Hantec n'est plus responsable si le client reçoit ou non les fonds.",
+      "deposit_crypto_descritoion_9": "* Notre société recommande vivement de faire un petit transfert après l'enregistrement pour vérifier l'efficacité du portefeuille.",
+      "deposit_crypto_descritoion_10": "Le client accepte de supporter les frais associés au dépôt et retrait.",
+      "deposit_crypto_descritoion_11": "Les clients comprennent que les actifs en cryptomonnaie sont volatils avec un risque élevé de perte.",
+      "deposit_crypto_descritoion_12": "Les prix peuvent fluctuer fortement à tout moment. En raison de ces fluctuations, la valeur de vos actifs peut augmenter ou diminuer de manière significative.",
+      "deposit_crypto_descritoion_13": "Hantec fixera le taux de change entre l'USDT et l'USD selon la situation réelle du marché.",
+      "deposit_crypto_descritoion_14": "Le client comprends que notre société a le droit de refuser les dépôts en cryptomonnaie sans préavis. En cas de litige, la décision de la société est finale.",
+      "deposit_card_title": "Déposez maintenant en utilisant les méthodes de paiement suivantes",
+      "deposit_card_title_1": "Carte de Crédit / Débit",
+      "deposti_card_title_2": "Virement Bancaire",
+      "depostit_card_title_3": "Méthodes de Paiement Locales",
+      "deposit_card_title_4": "Argent Mobile",
+      "deposit_card_title_5": "Portefeuille Électronique",
+      "deposit_crypto_currency": "Dépôt en cryptomonnaie maintenant",
+      "deposit_amount": "Montant du Dépôt",
+      "minimum_deposit_amount:": "Montant minimum du dépôt :",
+      "enter_token_value": "Entrez la valeur du hash de votre jeton",
+      "hash_txid": "Hash/TxID",
+      "cancel": "Annuler",
+      "submit": "Soumettre",
+      "tether": "Tether",
+      "accept_and_continue": "Accepter et Continuer",
+      "account": "Compte",
+      "select_account": "Sélectionnez votre compte",
+      "enter_deposit_amount": "Entrez le montant de votre dépôt"
+    },
+    "internal_transfer": {
+      "title_transfer": "Transfert Interne",
+      "subtitle_transfer_desktop_one": "Uniquement pour les transferts internes dans tous les live/commissions",
+      "subtitle_transfer_desktop_two": "comptes sous le même nom",
+      "subtitle_transfer_mobile_one": "Uniquement pour le transfert interne dans tous les live/",
+      "subtitile_transfer_mobile_two": "compte de commission sous le même nom",
+      "subtitle_transfer": "Uniquement pour les transferts internes entre comptes live/commission au même nom",
+      "card_infor": "Sélectionnez les comptes entre lesquels vous souhaitez transférer de l'argent.",
+      "commission": "commission",
+      "accounts_under": "comptes sous",
+      "the_same_name": "le même nom",
+      "select_accounts_between_you": "Sélectionnez les comptes entre lesquels vous",
+      "want_to": "souhaitez",
+      "transfer_the_money": "transférer l'argent",
+      "reset_all": "Réinitialiser tout",
+      "transfer_money": "Transférer de l'Argent",
+      "been_completed.": "Votre transaction interne a été complétée.",
+      "good_job": "Bien joué !",
+      "balance": "Solde :"
+    },
+    "withdrawal": {
+      "title_withdrawal": "Retrait",
+      "subtitle_withdrawal": "Retrait de fonds de votre compte",
+      "select_payment_gateways": "Sélectionnez les passerelles de paiement",
+      "bank_account": "Compte Bancaire",
+      "mobile_money": "Argent Mobile",
+      "perfect_money": "Perfect Money",
+      "usdt": "USDT",
+      "processing": "En cours",
+      "withdrawal_number": "Numéro de Retrait",
+      "withdraw_processing_deskription": "Jusqu'à ce que votre demande de retrait en cours soit traitée, vous ne pourrez pas effectuer de nouvelle demande de retrait. Merci pour votre patience.",
+      "contact_support": "Contacter le support",
+      "withdrawal_confirmation": "Confirmation de Retrait",
+      "before_confirming_details": "Avant de confirmer votre retrait, veuillez vérifier les informations fournies.",
+      "reminder": "Rappel",
+      "before_proceeding_withdrawal": "Avant de procéder au retrait",
+      "check-out_our_reminder.": "consultez notre Rappel.",
+      "client_Number": "Numéro de Client",
+      "bank_Location": "Emplacement de la Banque",
+      "bank_name": "Nom de la Banque",
+      "bank_branch": "Agence Bancaire",
+      "international_bank": "Numéro de Compte Bancaire International (IBAN)",
+      "swift_code": "Code SWIFT",
+      "available_balance": "Solde Disponible",
+      "Currency": "Devise",
+      "withdraw_amount": "Montant du Retrait",
+      "receive_currency": "Recevoir la Devise",
+      "submit": "Soumettre",
+      "cancel": "Annuler",
+      "confirm": "Confirmer",
+      "crypto_wallet": "Portefeuille Crypto",
+      "select_crypto_wallet": "Sélectionnez votre portefeuille Crypto",
+      "crypto_wallet_address": "Portefeuille Crypto Adresse",
+      "withdrawal_reminder": "Rappel de Retrait",
+      "terms_and_conditions": "Termes et Conditions",
+      "terms_description_1": "Cher Client,",
+      "terms_description_2": "Les retraits ne peuvent être transférés que vers le compte bancaire du client dans le pays où le dépôt a été effectué.",
+      "terms_description_3": "Pour se conformer aux directives de lutte contre le blanchiment d'argent, lors du traitement de votre retrait, nous pourrions être amenés à fournir vos informations personnelles aux banques ou institutions de transfert. Ces institutions doivent également se conformer aux réglementations locales sur l'utilisation des données personnelles.",
+      "terms_description_4": "Lorsque vous utilisez la passerelle de paiement en ligne de Hantec pour le dépôt, la marge de trading totale doit atteindre au moins 50% du dépôt total, sinon 5% du dépôt total seront facturés en tant que frais administratifs.",
+      "terms_description_5": "Le montant total du dépôt et la marge de trading totale seront réinitialisés à zéro après chaque retrait. Si les clients effectuent un nouveau dépôt, l'exigence de marge de trading sera calculée à partir de la date du nouveau dépôt.",
+      "terms_description_6": "Le taux de change de la société de transfert est déterminé par les conditions du marché et ne sera pas communiqué à l'avance au client. Les frais bancaires et les frais des banques intermédiaires sont à la charge du client et déduits du montant du transfert.",
+      "terms_description_7": "En réponse aux changements des politiques de la société de transfert :",
+      "terms_description_8": "Pour les retraits dans d'autres régions (sauf le Nigeria et l'Afrique du Sud), le montant minimum de retrait est de 50 USD. Les 4 premiers retraits sont gratuits par mois. À partir du 5e retrait, des frais de traitement de 15 USD seront appliqués pour chaque retrait.",
+      "terms_description_9": "Pour les retraits au Nigeria et en Afrique du Sud, le montant minimum de retrait est de 10 USD. Les 4 premiers retraits sont gratuits par mois. À partir du 5e retrait, des frais de traitement de 15 USD seront appliqués pour chaque retrait.",
+      "terms_description_10": "Pour l'USDT, les clients doivent soumettre les instructions de retrait avant 9h00 (GMT+2). Pour les devises locales, les clients doivent soumettre les instructions de retrait avant 13h00 (GMT+2). En cas de dépassement de l'heure limite, le transfert sera effectué le jour de trading suivant.",
+      "terms_description_11": "Veuillez vous assurer que votre compte bancaire peut recevoir la devise de règlement que vous avez spécifiée. Veuillez vérifier attentivement les informations de retrait. Hantec ne sera pas tenu responsable de toute erreur commise par le client. Après avoir demandé un retrait, la plateforme déduira le montant en temps réel et exécutera l'instruction à 12h00. Si le client a encore des positions ouvertes et que le compte devient négatif en raison des conditions du marché, nous nous réservons le droit de renvoyer le retrait en attente sur le compte de trading, et le client devra soumettre à nouveau la demande de retrait.",
+      "tersm_description_12": "",
+      "terms_description_13": "",
+      "account": "Compte",
+      "select_account": "Sélectionnez votre compte",
+      "client_number": "Numéro de client",
+      "select_client_number": "Select your Client Number",
+      "bank_location": "Localisation de la banque",
+      "select_bank_location": "Sélectionnez l'emplacement de votre banque",
+      "select_bank_name": "Sélectionnez le nom de votre banque",
+      "enter_bank_branch": "Entrez votre compte bancaire",
+      "optional": "Facultative",
+      "amount": "Montante",
+      "": ""
+    },
+    "profile": {
+      "menu": {
+        "settings": "Paramètres du profil",
+        "info": "Votre profil",
+        "residential_address": "Adresse Résidentielle",
+        "mailing_address": "Adresse Postale",
+        "delete_profile": "Supprimer le profil"
+      },
+      "info": {
+        "title": "Votre profil",
+        "description": "Gérez vos informations personnelles",
+        "details_title": "Détails personnels",
+        "edit_action": "Modifier",
+        "cancel_action": "Annuler",
+        "user_name": "Nom d'utilisateur",
+        "email_address": "Adresse e-mail",
+        "phone": "Téléphone",
+        "password": "Mot de Passe du Centre Client",
+        "uneditable": "Non modifiable",
+        "confirm_modal": {
+          "title": "Confirmez votre mot de passe",
+          "description": "Veuillez entrer votre mot de passe actuel pour modifier les détails de votre profil.",
+          "current_password": "Mot de passe actuel",
+          "password_placeholder": "Entrez votre mot de passe",
+          "buttons": {
+            "cancel": "Annuler",
+            "continue": "Continuer"
+          }
+        },
+        "edit": {
+          "email_title": "Modifier l'adresse e-mail",
+          "email_description": "Ceci sera utilisé pour la connexion et la récupération de compte.",
+          "email_address": "Adresse e-mail",
+          "phone_title": "Modifier le numéro de téléphone",
+          "phone_description": "Ceci sera utilisé pour la connexion et la récupération de compte.",
+          "phone": "Téléphone",
+          "phone_placeholder": "Entrez votre numéro de téléphone",
+          "phone_exists_error": "Le numéro de téléphone est déjà utilisé. Veuillez utiliser un numéro différent.",
+          "password_title": "Modifier le mot de passe",
+          "password_description": "Le mot de passe doit contenir au moins 8 caractères, incluant une lettre et un chiffre.",
+          "password_old": "Ancien mot de passe",
+          "password_new": "Nouveau mot de passe",
+          "password_new_placeholder": "Entrez votre mot de passe",
+          "password_repeat": "Répétez le mot de passe",
+          "password_repeat_placeholder": "Répétez le mot de passe",
+          "password_requirements": "Au moins 8 caractères, comprenant 1 chiffre, 1 lettre et 1 symbole.",
+          "dont_match_error": "Les mots de passe doivent correspondre",
+          "buttons": {
+            "cancel": "Annuler",
+            "save": "Enregistrer"
+          }
+        }
+      },
+      "residential_address": {
+        "title": "Adresse Résidentielle",
+        "description": "Veuillez fournir votre adresse de résidence pour indiquer où vous habitez actuellement.",
+        "country": "Pays",
+        "city": "Ville",
+        "address": "Adresse",
+        "post_code": "Code postal",
+        "edit_action": "Modifier",
+        "cancel_action": "Annuler",
+        "buttons": {
+          "cancel": "Annuler",
+          "save": "Enregistrer"
+        }
+      },
+      "mailing_address": {
+        "title": "Adresse Postale",
+        "description": "Veuillez fournir l'adresse postale pour les communications importantes",
+        "country": "Pays",
+        "city": "Ville",
+        "address": "Adresse",
+        "post_code": "Code postal",
+        "edit_action": "Modifier",
+        "cancel_action": "Annuler",
+        "buttons": {
+          "cancel": "Annuler",
+          "save": "Enregistrer"
+        }
+      },
+      "delete": {
+        "title": "Supprimer le profil",
+        "description": "Supprimez définitivement votre compte, vos espaces de travail privés, et toutes les données que vous avez téléchargées. Cette action est irréversible.",
+        "buttons": {
+          "delete": "Supprimer"
+        },
+        "delete_modal": {
+          "title": "Confirmation de Suppression du Compte",
+          "description": "Vous êtes redirigé vers notre Service Client. Veuillez les contacter pour finaliser la suppression de votre profil.",
+          "buttons": {
+            "cancel": "Annuler",
+            "continue": "Continuer"
+          }
+        }
+      },
+      "confirmation": {
+        "title": "Confirmation de suppression",
+        "description": "Veuillez saisir votre mot de passe actuel pour supprimer votre compte"
+      }
+    },
+    "trading": {
+      "my_assets": "Mes actifs",
+      "title": "Mes Comptes de Trading",
+      "add_new_button": "Ajouter un Nouveau Compte Live",
+      "add": "Ajouter",
+      "assets_all": "Tout",
+      "assets_forex": "Forex",
+      "assets_metal": "Métal",
+      "assets_oil": "Pétrole",
+      "assets_index": "Indice",
+      "add_new_button_Demo": "Ajouter un Nouveau Compte Démo",
+      "add_new_live_account": {
+        "limit_reached": {
+          "title": "Vous avez atteint le montant maximum de",
+          "account": "compte",
+          "title2": "Par conséquent, votre demande d'ajout de",
+          "title3": "compte est rejetée.",
+          "buttons": {
+            "ok": "D'accord"
+          }
+        },
+        "application_already_exists": {
+          "badge": "Live",
+          "title": "Cette action créera un compte",
+          "description": "La demande existe déjà.",
+          "buttons": {
+            "cancel": "Fermer"
+          }
+        },
+        "application_submitted": {
+          "title": "Votre demande a été reçue.",
+          "description": "La demande sera approuvée dans un délai de 1 à 2 jours ouvrés",
+          "buttons": {
+            "cancel": "Confirmer"
+          }
+        },
+        "application_form": {
+          "badge": "Live",
+          "title": "Cette action créera un compte",
+          "texts": {
+            "header": "Cher Client",
+            "description": "Merci d'utiliser le service d'ouverture de compte en un clic de Hantec. Avant de finaliser le processus, nous expliquons ce qui suit",
+            "steps": [
+              {
+                "title": "Informations sur le Compte",
+                "text": "Nous établirons le nouveau compte en fonction des informations de l'ancien compte choisi par le client et pourrons demander des informations supplémentaires. Les paramètres du nouveau compte resteront conformes à ceux de l'ancien, y compris la devise de base, les frais de commission, et l'affiliation de l'introducteur."
+              },
+              {
+                "title": "Déclaration de Risque",
+                "text": "Les clients doivent comprendre les règles de trading et les risques de marché associés, et protéger leur mot de passe de compte. En cas de divulgation volontaire, le client assume les risques associés."
+              },
+              {
+                "title": "Déclaration des Actifs",
+                "text": "Les clients doivent déclarer fidèlement leur situation financière. Si les conditions de trading réelles ne correspondent pas à celles déclarées, la société se réserve le droit de demander des explications."
+              },
+              {
+                "title": "Déclaration de Non-Citoyenneté Américaine",
+                "text": "Les clients confirment qu'ils ne sont pas citoyens américains et ne sont pas soumis à l'impôt américain."
+              },
+              {
+                "title": "Déclaration d'Utilisation des Données Personnelles",
+                "text": "Les clients reconnaissent que Hantec Financial peut être tenu de se conformer à certaines lois ou réglementations. Les clients acceptent que Hantec Financial puisse fournir les données personnelles aux agences gouvernementales concernées."
+              }
+            ],
+            "drop_down_title": "Compte de Trading",
+            "buttons": {
+              "cancel": "Annuler",
+              "continue": "Confirmer"
+            }
+          },
+          "buttons": {
+            "cancel": "Annuler"
+          }
+        }
+      },
+      "details_button": "Détails",
+      "table_headers": {
+        "account_number": "N° de Compte",
+        "state": "État",
+        "state_values": {
+          "live": "Live",
+          "demo": "Démo"
+        },
+        "leverage": "Effet de Levier",
+        "currency": "Devise",
+        "balance": "Solde",
+        "open_pl": "P/L Ouvert",
+        "equity": "Équité",
+        "free_margin": "Marge Libre"
+      },
+      "single_account": {
+        "account_number": "N° de Compte",
+        "live_tag": "Live",
+        "change_password": "Changer le Mot de Passe",
+        "delete_trade_account": "Supprimer le Compte de Trading",
+        "change_password_modal": {
+          "forgot_password": "Mot de passe oublié",
+          "title": "Changer votre mot de passe pour le compte",
+          "description": "Veuillez entrer votre mot de passe actuel pour modifier les détails de votre profil.",
+          "current_password": "Mot de passe actuel",
+          "current_placeholder": "Entrez votre mot de passe",
+          "new_password": "Nouveau mot de passe",
+          "new_placeholder": "Entrez votre mot de passe",
+          "repeat_password": "Répétez le mot de passe",
+          "repeat_placeholder": "Répétez le mot de passe",
+          "passwords_match_error": "Les mots de passe doivent correspondre",
+          "password_error": "Le mot de passe actuel est incorrect",
+          "buttons": {
+            "cancel": "Annuler",
+            "save": "Enregistrer"
+          }
+        },
+        "forgot_password_modal": {
+          "title": "Récupérer votre mot de passe",
+          "description": "Nous vous enverrons un email en réponse à votre demande de réinitialisation de mot de passe.",
+          "description_help": "Veuillez suivre les instructions dans l'email.",
+          "request_submitted": {
+            "title": "Confirmé",
+            "description": "Veuillez vérifier votre email.",
+            "buttons": {
+              "continue_btn": "Continuer"
+            }
+          },
+          "buttons": {
+            "cancel": "Annuler",
+            "send": "Envoyer"
+          }
+        },
+        "tabs": {
+          "overview": "Aperçu",
+          "open_positions": "Positions Ouvertes",
+          "closed_positions": "Positions Fermées"
+        },
+        "title": "Ma performance",
+        "update": "Dernière mise à jour",
+        "refresh_button": "Actualiser les données",
+        "account_balance": {
+          "total-balance": "Solde Total",
+          "total-deposited": "Total Déposé",
+          "closed_pl": "P/L Fermé",
+          "my_equity": "Mon Équité",
+          "total-withdrawn": "Total Retiré",
+          "open_pl": "P/L Ouvert",
+          "margin": "Marge",
+          "free-margin": "Marge Libre",
+          "margin-level": "Niveau de Marge",
+          "trades": {
+            "total_trades": "Nombre de Transactions",
+            "profitability": "Rentabilité",
+            "average-win": "Gain Moyen",
+            "average-loss": "Perte Moyenne",
+            "average-order-duration": "Durée Moyenne des Ordres",
+            "profitable-long-trades": "Trades Longues Rentables",
+            "profitable-short-trades": "Trades Courtes Rentables",
+            "best-trade-usd": "Meilleure Trades (USD)",
+            "worst-trade-usd": "Pire Trades (USD)"
+          }
+        },
+        "assets": {
+          "my_assets": "Mes actifs",
+          "all": "Tout",
+          "chart": {
+            "buy": "Acheter",
+            "sell": "Vendre"
+          },
+          "trade_distributions": "Répartition des trades",
+          "trade_distribution": "Répartition d'un trade"
+        },
+        "positions": {
+          "update": "Dernière mise à jour",
+          "refresh_button": "Actualiser les données",
+          "download_button": "Télécharger",
+          "day_tabs": {
+            "today": "Aujourd'hui",
+            "yesterday": "Hier",
+            "last-7-days": "7 derniers jours",
+            "last-30-days": "30 derniers jours",
+            "this-month": "Ce mois-ci",
+            "last-month": "Mois dernier",
+            "custom-range": "Plage personnalisée",
+            "select_date_range": "Sélectionner une plage de dates",
+            "days_count": "jour(s)",
+            "buttons": {
+              "cancel": "Annuler",
+              "done": "Terminé"
+            }
+          },
+          "table_headers": {
+            "ticket": "Ticket",
+            "symbol": "Symbole",
+            "action": "Action",
+            "trade-date": "Date de transaction",
+            "open-time": "Heure d'ouverture",
+            "open-price": "Prix d'ouverture",
+            "close-time": "Heure de fermeture",
+            "close-price": "Prix de fermeture",
+            "volume": "Volume",
+            "profit": "Profit",
+            "swaps": "Swaps",
+            "commissions": "Commissions"
+          }
+        }
+      }
+    },
+    "leverage_level": {
+      "title": "Niveau de Levier",
+      "description": "Ajuster le niveau de levier signifie changer le ratio des fonds empruntés par rapport à votre capital. Un levier plus élevé vous permet de contrôler de plus grandes positions avec moins de fonds propres, augmentant à la fois les gains et les pertes potentiels.",
+      "account_select_title1": "Sélectionnez le compte auquel vous souhaitez appliquer",
+      "account_select_title2": "le niveau de levier",
+      "risks": {
+        "low": "Risque faible",
+        "medium": "Risque moyen",
+        "high": "Risque élevé"
+      },
+      "risk_warning": {
+        "title": "Avertissement de Risque",
+        "description": "Avant de compléter l'enregistrement de votre compte",
+        "sidebar_open_text": "consultez notre Déclaration de Risque",
+        "sidebar": {
+          "title": "Avertissement de Risque",
+          "header": "Cher Client",
+          "steps": [
+            "Augmenter le ratio de levier signifie que vous pouvez utiliser moins de fonds pour des volumes de transactions plus importants. Cela rendra vos gains et pertes plus volatils. Veuillez identifier les risques associés.",
+            "Si vous diminuez le ratio de levier, il est possible que vos exigences de marge augmentent et que vos positions soient liquidées. Veuillez vérifier votre niveau de marge avant de postuler.",
+            "Si vous demandez un levier de 1:400, la liquidation forcée en semaine et le week-end est de 50% de la marge d'ouverture. Cela rendra votre investissement plus flexible, mais réduira votre capacité à supporter les fluctuations à court terme."
+          ]
+        },
+        "agreement": "J'ai compris les avertissements de risque ci-dessus",
+        "buttons": {
+          "cancel": "Annuler",
+          "save": "Enregistrer"
+        }
+      },
+      "request_already_in_process": "Votre demande de modification du niveau de levier est en cours de traitement.",
+      "request_submitted": {
+        "description": "Votre demande de modification du niveau de levier est en cours de traitement",
+        "buttons": {
+          "confirm": "Confirmer"
+        }
+      }
+    },
+    "download_center": {
+      "hint": "Plateformes de Trading et Outils d'Analyse",
+      "title-first_half": "Expérience de Trading Incroyable",
+      "title-second_half": "Équitable, stable et sécurisé",
+      "mt5": {
+        "title": "MT5 - La Plateforme de Trading Fiable",
+        "description": "MetaTrader 5 (MT5) est la plateforme de trading en ligne la plus populaire, offrant des outils complets pour diverses stratégies de trading.",
+        "buttons_title": "Télécharger",
+        "buttons": {
+          "pc_version": "Version PC",
+          "discover_more": "En savoir plus"
+        },
+        "mt5_sidebar": {
+          "title": "MT5 - La Plateforme de Trading Fiable",
+          "description": "MetaTrader 5 (MT5) est la plateforme de trading en ligne la plus populaire, offrant des outils complets pour diverses stratégies de trading.",
+          "key_features": {
+            "title": "Caractéristiques Clés",
+            "features": [
+              {
+                "title": "Avantages Techniques",
+                "description": "Réseau ultra-rapide connecté à notre serveur de New York, gérant tout le trafic et les transactions haute fréquence."
+              },
+              {
+                "title": "Trading Automatique",
+                "description": "Compatibilité avec les consultants experts tiers pour le trading automatisé"
+              },
+              {
+                "title": "Couverture Complète du Marché",
+                "description": "Tradez des devises, des matières premières, des CFD, et des indices"
+              },
+              {
+                "title": "Graphiques et Outils Flexibles",
+                "description": "Personnalisez votre table de trading avec des graphiques et outils d'analyse préférés."
+              },
+              {
+                "title": "Trading en Un Clic",
+                "description": "Trading simple et rapide en un clic"
+              },
+              {
+                "title": "Connectivité Améliorée",
+                "description": "Étendez les fonctionnalités avec des tiers pour enrichir votre plateforme MT5."
+              }
+            ],
+            "mobile_version": {
+              "title": "Version Mobile",
+              "description": "Accédez à votre plateforme de trading partout, à tout moment. Gérez les comptes, consultez les cours et saisissez les opportunités de trading en déplacement.",
+              "steps": [
+                "Ouvrez l'application MT5 après le téléchargement.",
+                "Sélectionnez « Connexion à un compte enregistré ».",
+                "Entrez « HantecMarketsV » dans la barre de recherche.",
+                "Choisissez « HantecMarketsV-LIVE » pour les comptes live ou « HantecMarketsV-Demo » pour les comptes démo."
+              ],
+              "download": "Télécharger",
+              "buttons": {
+                "pc_version": "Version PC"
+              }
+            }
+          }
+        }
+      },
+      "trading_central": {
+        "title": "Outils d'Analyse Trading Central",
+        "description": "Trading Central offre des outils d'analyse avancés pour améliorer vos décisions de trading avec des informations et des stratégies en temps réel.",
+        "buttons_title": "Télécharger",
+        "buttons": {
+          "discover_more": "En savoir plus"
+        },
+        "trading_central_sidebar": {
+          "title": "Outils d'Analyse Trading Central",
+          "description": "Trading Central offre des outils d'analyse avancés pour améliorer vos décisions de trading avec des informations et des stratégies en temps réel.",
+          "key_features": {
+            "title": "Caractéristiques Clés",
+            "features": [
+              {
+                "title": "Opinions des Analystes (AOI) :",
+                "description": "Réseau ultra-rapide connecté à notre serveur de New York, traitant tout le trafic et les transactions haute fréquence. Recherches, prévisions et commentaires en temps réel affichés sur les graphiques MT5."
+              },
+              {
+                "title": "Graphiques de Chandeliers Adaptatifs (AC)",
+                "description": "Compatibilité avec les consultants experts tiers pour le trading automatisé"
+              },
+              {
+                "title": "Convergence de Divergence Adaptative (ADC)",
+                "description": "Version avancée de MACD, ajustée en fonction des conditions du marché pour des stratégies optimales"
+              },
+              {
+                "title": "Outils d'Analyse en Temps Réel",
+                "description": "Rapports mis à jour toutes les 2 heures sur les conditions du marché."
+              }
+            ],
+            "instructions": {
+              "download": "Télécharger MT5",
+              "buttons": {
+                "pc_version": "Version PC",
+                "trading_central_login": "Connexion au Trading Central",
+                "plug_in": "Plug-in",
+                "how_to_use": "Comment utiliser"
+              }
+            }
+          }
+        }
+      },
+      "installation_guide": {
+        "title": "Guide d'installation du plugin MT4",
+        "step1": "Téléchargez l'installateur MT4 depuis le site Web de votre courtier",
+        "step2": "Double-cliquez sur notre installateur et sélectionnez la langue préférée",
+        "step3": "Cliquez sur Suivant",
+        "step4": "Veuillez lire attentivement l'accord et sélectionnez « J'accepte l'accord ». Cliquez sur Suivant",
+        "step5": "Notre nouvel installateur détectera automatiquement le serveur MT4 que vous avez téléchargé. Veuillez sélectionner la plateforme MT4 concernée et cliquer sur « Installer »",
+        "step6": "Terminez l'installation et ouvrez la plateforme MT4 (assurez-vous de rouvrir la plateforme après l'installation et de vous reconnecter à votre compte de trading).",
+        "step7": "Allez dans la fenêtre de navigation et cliquez sur le menu déroulant des indicateurs.",
+        "step8": "Vous y trouverez les indicateurs TC (Analyst Views, Candlesticks Adaptatifs et Convergence-Divergence Adaptative). Glissez et déposez-les sur le graphique de votre choix pour activer l'analyse technique.",
+        "win7_additional_info": {
+          "title": "Informations supplémentaires pour les utilisateurs de Win7",
+          "description": "Utilisez-vous le système d'exploitation Win7 ? Parfois, les systèmes Win7 ne peuvent pas détecter l'emplacement de l'indicateur TC sur votre ordinateur. Veuillez suivre les étapes ci-dessous pour les ajouter manuellement à votre plateforme MT4 :",
+          "step1": "Ouvrez d'abord votre plateforme MT4 :",
+          "step2": "Sélectionnez : Fichier > Ouvrir le dossier de données",
+          "step3": "Dans la fenêtre contextuelle, cherchez le fichier ‘Origin’. Ensuite, copiez l'adresse MT4 dans le document texte Origin.",
+          "step3_note": {
+            "note": "Remarque",
+            "note_text": "Si le fichier Origin ne peut pas être trouvé, sélectionnez le dossier ‘MQL4’ et copiez l'adresse du dossier."
+          },
+          "step4": "Retournez à l'installateur d'indicateurs TC que vous avez téléchargé depuis le site Web de votre courtier.",
+          "step5": "Double-cliquez sur notre installateur et sélectionnez la langue préférée",
+          "step6": "Cliquez sur Suivant dans la page de bienvenue :",
+          "step7": "Veuillez lire attentivement l'accord et sélectionnez « J'accepte l'accord ». Cliquez sur Suivant",
+          "step8": "Sélectionnez ‘Parcourir’ et collez l'emplacement du dossier dans la barre d'adresse URL appropriée.",
+          "step9": "Terminez l'installation et ouvrez la plateforme MT4 (assurez-vous de rouvrir la plateforme après l'installation et de vous reconnecter à votre compte de trading).",
+          "step10": "Allez dans la fenêtre de navigation et cliquez sur le menu déroulant des indicateurs.",
+          "step11": "Vous y trouverez les indicateurs TC (Analyst Views, Candlesticks Adaptatifs et Convergence-Divergence Adaptative). Glissez et déposez-les sur le graphique de votre choix pour activer l'analyse technique."
+        },
+        "buttons": {
+          "back": "Retour",
+          "back_to_top": "Retour en haut"
+        }
+      }
+    },
+    "registration": {
+      "login": "Connexion",
+      "welcome_title": "Bienvenue chez Hantec",
+      "welcome_desc": "Merci d'être un précurseur. Pour commencer à profiter des avantages, configurons votre profil Hantec.",
+      "form": {
+        "full_name": "Nom Complet",
+        "e-mail": "E-mail",
+        "password": "Mot de passe",
+        "buttons": {
+          "sign_up": "Inscription"
+        },
+        "errors": {
+          "title": "Votre mot de passe doit contenir",
+          "8_characters": "Au moins 8 caractères",
+          "1_letter": "Au moins une lettre",
+          "1_number": "Au moins un chiffre",
+          "email_exists": "L'e-mail est déjà utilisé. Veuillez en essayer un autre ou vous connecter à votre compte."
+        }
+      },
+      "pin_check_form": {
+        "check_your_inbox": "Vérifiez votre boîte de réception",
+        "description": "Nous vous avons envoyé un code de sécurité. Veuillez vérifier votre e-mail pour authentifier votre compte",
+        "error": "Le code que vous avez entré est incorrect. Veuillez réessayer.",
+        "buttons": {
+          "continue": "Continuer",
+          "re_send": "Renvoyer le code"
+        }
+      },
+      "registration_done": {
+        "title": "Bien joué",
+        "description": "Verifiez maintenant pour commencer à trader !",
+        "buttons": {
+          "trade_live": "Vérifiez Maintenant",
+          "later": "Je le ferai plus tard",
+          "demo": "Trader en Démo"
+        }
+      }
+    },
+    "log_in": {
+      "title1": "Connexion au",
+      "title2": "Centre Client",
+      "or": "ou",
+      "create_account": "créer un compte",
+      "email_label": "E-mail",
+      "password_label": "Mot de passe",
+      "error_user": "E-mail ou mot de passe invalide !",
+      "remember": "Se souvenir de moi",
+      "forgot_password": "Mot de passe oublié ?",
+      "buttons": {
+        "login": "Connexion"
+      }
+    },
+    "forgot_login": {
+      "title1": "Mot de",
+      "title2": "passe oublié",
+      "description": "Entrez votre e-mail pour recevoir un lien de réinitialisation de mot de passe.",
+      "email_label": "E-mail",
+      "error_email": "Adresse e-mail invalide. Veuillez entrer un e-mail enregistré valide.",
+      "buttons": {
+        "back": "Retour à la connexion",
+        "send": "Envoyer l'e-mail de vérification"
+      }
+    },
+    "reset_user": {
+      "title": "Réinitialisation du Mot de Passe",
+      "description": "Mettez à jour le mot de passe de votre compte",
+      "for_acc": "Pour le compte",
+      "for_acc_trading": "Réinitialisation du mot de passe pour le compte:",
+      "associated_email": "E-mail associé:",
+      "password_label": "Nouveau Mot de Passe",
+      "passwords_match_error": "Les mots de passe doivent correspondre",
+      "confirm_password": "Confirmer le mot de passe",
+      "errors": {
+        "title": "Votre mot de passe doit contenir",
+        "8_characters": "Au moins 8 caractères",
+        "1_letter": "Au moins une lettre",
+        "1_number": "Au moins un chiffre"
+      },
+      "buttons": {
+        "reset": "Réinitialiser le mot de passe"
+      }
+    },
+    "reset_trading_account_password": {
+      "title": "Réinitialisation du Mot de Passe",
+      "description": "Mettez à jour le mot de passe de votre compte",
+      "for_acc": "Réinitialisation du mot de passe pour le compte :",
+      "associated_email": "E-mail associé :",
+      "password_label": "Nouveau Mot de Passe",
+      "passwords_match_error": "Les mots de passe doivent correspondre",
+      "errors": {
+        "title": "Votre mot de passe doit contenir",
+        "8_characters": "Au moins 8 caractères",
+        "1_letter": "Au moins une lettre",
+        "1_number": "Au moins un chiffre"
+      },
+      "buttons": {
+        "reset": "Réinitialiser le mot de passe"
+      }
+    },
+    "onboarding": {
+      "dashboard_info": {
+        "title": "Bienvenue",
+        "description": "Vous pourrez commencer à trader 24 h après avoir terminé l'inscription à votre compte — voici comment la finaliser",
+        "time": "processus en minutes",
+        "steps": [
+          {
+            "title": "Vérification d'identité",
+            "description": "Confirmez votre identité en toute sécurité avec des documents officiels."
+          },
+          {
+            "title": "Preuve d'adresse",
+            "description": "Fournissez une preuve de résidence vérifiée pour l'authentification."
+          },
+          {
+            "title": "Processus KYC",
+            "description": "Partagez votre expérience en investissement pour une expérience sécurisée."
+          }
+        ]
+      },
+      "exit": {
+        "exit": "Quitter",
+        "save_exit": "Enregistrer et quitter",
+        "title": "L'ouverture de votre compte est presque terminée, êtes-vous sûr de vouloir quitter ?",
+        "leaving": {
+          "title": "Merci pour votre soutien.",
+          "description": "Nous enregistrerons la progression de l'ouverture de votre compte, et vous pourrez continuer à tout moment."
+        },
+        "button": {
+          "leave": "Quitter",
+          "continue": "Continuer"
+        }
+      },
+      "step_name": "Étape",
+      "main_event": {
+        "account_verification_steps": {
+          "description1": "Commencer sur la plateforme",
+          "description2": "Hantec est facile.",
+          "account_verify": "Vérification du compte",
+          "steps": [
+            {
+              "title": "Vérification d'identité",
+              "description": "Faites le premier pas vers un trading sécurisé en vérifiant votre identité avec des documents officiels."
+            },
+            {
+              "title": "Preuve d'adresse",
+              "description": "Sécurisez votre expérience de trading en confirmant votre adresse de résidence. En respectant les normes de conformité, vous pouvez trader en toute confiance, sachant que votre compte est totalement sécurisé."
+            },
+            {
+              "title": "Processus KYC",
+              "description": "Pour mieux vous servir et garantir une expérience de trading conforme et sécurisée, nous aimerions en savoir plus sur vous et votre situation financière."
+            }
+          ],
+          "buttons": {
+            "lets_start": "Commençons"
+          },
+          "phone_request_form": {
+            "title": "Numéro de téléphone",
+            "description": "Avant de terminer l'inscription de votre compte, nous avons besoin de la dernière information. Veuillez fournir votre numéro de téléphone.",
+            "phone_placeholder": "Entrez votre numéro de téléphone",
+            "phone_exists_error": "Le numéro de téléphone est déjà utilisé. Veuillez utiliser un numéro différent.",
+            "buttons": {
+              "cancel": "Annuler",
+              "continue": "Continuer"
+            }
+          }
+        },
+        "id_verify": {
+          "title": "Vérification du Compte",
+          "description1": "Téléchargez le document",
+          "description2": "d'identité",
+          "instructions_title": "Veuillez lire attentivement les instructions avant de télécharger votre document d'identité",
+          "instructions": [
+            "Assurez-vous que les quatre coins sont visibles",
+            "Le document est clair et lisible",
+            "Vérifiez l'éclairage pour éviter les reflets ou les ombres",
+            "Évitez les photocopies ou les documents papier"
+          ],
+          "hint": "Veuillez noter que les documents ne répondant pas à ces exigences seront soumis à une révision manuelle, ce qui peut entraîner des retards de traitement.",
+          "buttons": {
+            "continue": "Continuer"
+          },
+          "id_auto": {
+            "title": "Veuillez sélectionner le pays d'émission et le type de document.",
+            "manual_text": "Vous ne pouvez pas télécharger votre ID pour la vérification automatique ? Utilisez la",
+            "underline": "'Vérification Manuelle'",
+            "buttons": {
+              "manual": "Vérification Manuelle"
+            },
+            "disclaimer": {
+              "title": "Clause de non-responsabilité",
+              "text1": "Veuillez noter que ce processus prend plus de temps que le processus de vérification automatique.",
+              "text2": "Votre demande sera examinée et vérifiée par notre équipe de support client Hantec.",
+              "text3": "Nous apprécions votre patience et compréhension alors que nous assurons les normes les plus élevées de service et de sécurité.",
+              "buttons": {
+                "cancel": "Annuler",
+                "continue": "Continuer"
+              }
+            }
+          },
+          "id_manual": {
+            "title": "Vérification Manuelle",
+            "description": "Veuillez noter que le processus de révision manuelle prend 1 à 2  jours ouvrables pour être terminé.",
+            "document_select": "Sélectionnez le type de document pour la vérification",
+            "id": "Carte d'identité",
+            "passport": "Passeport",
+            "driver": "Permis de conduire",
+            "dont_have_documents": "Rencontrez des problèmes ? Démarrez un chat, et notre équipe d'assistance vous aidera !",
+            "document_form": {
+              "first_name": "Prénom",
+              "last_name": "Nom de famille",
+              "country": "Pays/région",
+              "country_placeholder": "Pays",
+              "birthday": "Date de naissance",
+              "day_placeholder": "Jour",
+              "month_placeholder": "Mois",
+              "year_placeholder": "Année",
+              "document_number_id": "Numéro de la carte d'identité",
+              "document_number_passport": "Numéro de passeport",
+              "document_number_driver": "Numéro du permis de conduire",
+              "document_upload": "Téléchargez votre document",
+              "document_image_front": "Téléchargez le côté avant",
+              "document_image_back": "Téléchargez le côté arrière",
+              "document_upload_hint": "JPEG, PNG et PDF uniquement, taille maximale de 20 Mo"
+            },
+            "buttons": {
+              "back_to_auto": "Retour à la vérification automatique",
+              "continue_btn": "Continuer"
+            },
+            "same_id_modal": {
+              "title": "Ce document a déjà été enregistré.",
+              "description": "Veuillez vérifier si vous avez déjà utilisé ce document pour enregistrer un compte de trading.",
+              "buttons": {
+                "ok": "Ok"
+              }
+            }
+          }
+        },
+        "address_verify": {
+          "disclaimer_modal": {
+            "title": "Avertissement",
+            "text1": "Pour des raisons de sécurité, nous demandons généralement une preuve d'adresse pour la vérification.",
+            "text2": "Cependant, nous comprenons que vous ne l'ayez peut-être pas immédiatement disponible.",
+            "text3": "À cette étape, vous pouvez donc passer l'upload de la preuve d'adresse si vous ne la possédez pas actuellement.",
+            "buttons": {
+              "skip": "Sauter",
+              "continue": "Continuer"
+            }
+          },
+          "deposit_limit_modal": {
+            "title": "Restrictions sur les limites de dépôt",
+            "description": "Si vous choisissez de ne pas télécharger la preuve d'adresse, votre limite de dépôt sera restreinte à 1000 USD par transaction.",
+            "buttons": {
+              "back": "Retour",
+              "confirm": "Confirmer"
+            }
+          },
+          "title": "Vérification du Compte",
+          "description1": "Téléchargez une preuve",
+          "description2": "d'adresse résidentielle",
+          "address_auto": {
+            "title": "Choisissez un type de document pour l'adresse",
+            "manual_text": "Vous ne pouvez pas télécharger votre document pour la vérification automatique ? Utilisez la",
+            "manual_btn": "'Vérification Manuelle'",
+            "buttons": {
+              "manual": "Vérification Manuelle"
+            }
+          },
+          "address_manual": {
+            "title": "Vérification Manuelle",
+            "description": "Veuillez noter que le processus de vérification manuelle prend 1 à 2  jours ouvrables pour être terminé.",
+            "label": "Adresse Résidentielle",
+            "upload_document": "Téléchargez votre document",
+            "upload_document_placeholder": "Téléchargez le côté avec votre adresse",
+            "hint": "JPEG, PNG et PDF uniquement, taille maximale de 20 Mo",
+            "buttons": {
+              "back": "Retour à la vérification automatique",
+              "continue": "Continuer"
+            }
+          }
+        },
+        "net_worth_verify": {
+          "title": "Informations sur le Compte",
+          "platform_inform": "Voici la plateforme de trading que vous utiliserez",
+          "leverage_label": "Levier",
+          "leverage_warning": "Rappel : Veuillez noter que le taux de coupure du levier de 1 pour 400 sera augmenté à 50 %. Pour plus de détails, veuillez consulter le site Web de Hantec Financial.",
+          "investment_title": "Expérience en Investissement",
+          "income_label": "Revenu Annuel",
+          "net_worth_label": "Valeur Nette Liquide",
+          "occupation_label": "Profession",
+          "occupations": [
+            "Employé",
+            "Sans emploi",
+            "Travailleur indépendant",
+            "Retraité",
+            "Étudiant"
+          ],
+          "source": "Source de Fonds",
+          "sources": [
+            "Économies",
+            "Emploi",
+            "Héritage",
+            "Investissement",
+            "Propriété / Actifs"
+          ],
+          "trading_experience": "Expérience en Trading de Produits Financiers à Effet de Levier",
+          "experiences": [
+            "Aucune",
+            "1-3 ans",
+            "3-5 ans",
+            "5-8 ans",
+            "Plus de 8 ans"
+          ],
+          "average_size": "Taille Moyenne de la Transaction",
+          "average_amount": "Montant Moyen de la Transaction",
+          "style": "Style de Trading",
+          "styles": [
+            "Robot",
+            "Manuel",
+            "Scalpeur"
+          ],
+          "self_declaration": "Auto-déclaration - Individuelle",
+          "us_citizen": {
+            "title": "Êtes-vous citoyen américain à des fins fiscales ?",
+            "yes": "Oui",
+            "no": "Non",
+            "no_us_citizen": "Nous regrettons de vous informer que les candidatures des citoyens américains ne sont pas acceptées"
+          },
+          "tin": "Numéro d'Identification du Contribuable (TIN)",
+          "optional": "Optionnel",
+          "terms": {
+            "textstart": "Je/Nous avons lu, compris et accepté d'être liés par",
+            "financial_service": "« Guide des Services Financiers »",
+            "product_disclosure": "« Déclaration de Divulgation de Produit »",
+            "and": "et",
+            "terms_conditions": "« Termes et Conditions »",
+            "textEnd": "de Hantec Markets (V) Company Limited"
+          }
+        },
+        "verify_done": {
+          "title1": "Bien joué !",
+          "title2": "C'est tout ce dont nous avons besoin",
+          "description": "Nous vous informerons dès que nous aurons terminé de vérifier vos documents. Une fois que vous êtes vérifié, vous recevrez les informations de connexion pour la plateforme MT5",
+          "buttons": {
+            "explore": "Explorer la plateforme Hantec"
+          }
+        },
+        "account_approved": {
+          "title": "Avis aux Clients de Hantec",
+          "header": "À nos clients précieux,",
+          "inform": "Le trading de Forex, Métaux Précieux et CFD est un investissement à haut risque. Pour protéger vos intérêts, nous vous suggérons de comprendre les lois et réglementations locales avant de trader. Veuillez lire attentivement les déclarations avant d'utiliser votre compte de trading électronique, vous reconnaissez ainsi avoir compris les détails du trading et les risques associés. Votre compte de trading électronique sera alors activé en conséquence.",
+          "notices_opening": {
+            "title": "Ouverture de Compte",
+            "steps": [
+              "J'ai lu et compris le contenu complet de l'Accord Client : <Termes et Conditions> <Guide des Services Financiers> <Déclaration d'Information Produit> avant de soumettre les documents d'ouverture de compte et j'accepte d'y être lié.",
+              "Je comprends que je devrais consulter un conseiller juridique, financier et fiscal indépendant en relation avec les Termes et Conditions et le contenu complet de l'Accord Client avant de soumettre les documents d'ouverture de compte.",
+              "J'ai appris à utiliser la plateforme de trading électronique pour trader, et vérifier le solde du compte et les informations associées via Internet.",
+              "Hantec Markets (V) Company Limited est un fournisseur de services de plateforme de trading et ne propose aucun produit de gestion de patrimoine ni service de gestion d'actifs.",
+              "J'ai compris tous les risques associés à un tiers autorisé à gérer un compte de trading, je reste responsable de toute responsabilité financière et légale découlant du tiers autorisé à gérer le compte (y compris la fourniture du mot de passe de trading à un tiers)."
+            ]
+          },
+          "notices_management": "Je comprends que le mot de passe de trading est mon bien personnel et doit être gardé en lieu sûr. Je dois conserver mon mot de passe de trading correctement et ne le dire à personne. Je dois informer Hantec Markets (V) Company Limited immédiatement si mon mot de passe a été divulgué.",
+          "notice_trading": {
+            "title": "Informations de Trading",
+            "steps": [
+              "J'ai compris que toutes les recommandations d'investissement sont à titre de référence uniquement. Personne ne peut prédire correctement la direction du marché en permanence. Je suis responsable des décisions de trading prises et j'en assume toutes les conséquences.",
+              "J'ai compris la marge initiale requise sur cette plateforme de trading électronique pour chaque nouveau contrat.",
+              "J'ai compris que lorsque vous conservez un contrat pendant la nuit, vous devrez peut-être payer un intérêt de renouvellement.",
+              "J'ai compris que Hantec Markets (V) Company Limited clôturera les contrats et liquidera les positions (y compris les positions verrouillées) sans aucun consentement préalable si votre marge de maintenance est inférieure à la norme, afin de minimiser tout risque inutile dû à la fluctuation du marché.",
+              "J'ai compris que dans des situations normales, Hantec Markets (V) Company Limited fournira son écart normal de prix d'achat-vente. Cependant, cet écart est sujet à des modifications en raison des fluctuations du marché et d'autres facteurs. L'écart et la plage d'acceptation des ordres changeront de temps en temps en fonction de la fluctuation du marché. J'ai noté que le prix d'exécution de l'ordre stop-loss peut dévier du prix souhaité en raison de la volatilité du marché.",
+              "Je dois assumer le risque de ne pas pouvoir effectuer de transactions via la plateforme de trading électronique."
+            ]
+          },
+          "notice_risk": {
+            "title": "Divulgation des Risques",
+            "steps": [
+              "J'ai lu et compris la déclaration de divulgation des risques, qui est écrite dans l'accord client supplémentaire, ainsi que tous les risques associés au trading de Forex, Métaux Précieux et CFD avant d'ouvrir un compte.",
+              "Je comprends que le risque du trading à effet de levier Forex, Métaux Précieux et CFD est très élevé car la marge initiale minimale est bien inférieure à la valeur contractuelle de ces produits, augmentant ainsi le risque de trading en raison de l'effet de levier élevé."
+            ]
+          },
+          "agreement": "Je comprends et accepte toutes les déclarations ci-dessus.",
+          "buttons": {
+            "confirm": "Confirmer"
+          }
+        }
+      }
+    },
+    "rate_modal": {
+      "title": "Bonjour, vous utilisez la nouvelle version du Portail Client Hantec",
+      "description": "Afin de nous améliorer en continu, nous aimerions avoir vos retours sur les nouvelles fonctionnalités et le design. Veuillez cliquer sur le lien ci-dessous pour remplir le sondage. Cela ne prendra qu'une minute !",
+      "buttons": {
+        "skip": "Sauter",
+        "rate_now": "Évaluer maintenant"
+      }
+    },
+    "demo_modal": {
+      "title": "Vous êtes en train d'entrer en mode Démo",
+      "no_demo_account": {
+        "title1": "Souhaitez-vous",
+        "title2": "créer un compte démo ?"
+      },
+      "description": [
+        "En Mode Démo, vous tradez avec des fonds virtuels.",
+        "Utilisez ce mode pour pratiquer et explorer la plateforme.",
+        "Aucun argent réel n'est impliqué."
+      ],
+      "buttons": {
+        "cancel": "Annuler",
+        "Continue": "Continuer"
+      },
+      "no_demo_buttons": {
+        "cancel": "Annuler",
+        "yes": "Oui"
+      }
+    },
+    "demo_dashboard_banner": {
+      "title": "Vous utilisez actuellement un compte démo.",
+      "description": "Ce compte est uniquement destiné à des fins de démonstration. Toutes les modifications ou données saisies peuvent ne pas être enregistrées ou reflétées dans un compte réel. Veuillez contacter l'assistance pour plus d'informations."
+    }
+  }
+}
