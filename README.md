@@ -82,6 +82,15 @@ If you changed the `APP_PORT` variable in `.env`, replace `6978` with the port y
 
 ---
 
+### 5. Login to the System
+
+Use the following credentials to log in:
+
+- **Email Login:** hayk@selfstudio.se
+- **Password:** qEm8RCnf
+
+---
+
 ## Useful Commands
 
 - **Stop Containers:**
@@ -114,3 +123,4 @@ If you changed the `APP_PORT` variable in `.env`, replace `6978` with the port y
 3. To update dependencies, make changes in `package.json` and rebuild the container using `docker-compose up --build`.
 
 ---
+
