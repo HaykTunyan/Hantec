@@ -11,6 +11,11 @@ import { resetAccountPassword } from "@/api/profile/resetAccountPassword";
 import { useTranslation } from "next-i18next";
 
 const Reset = () => {
+
+  /**
+   *  Rest Hooks Component.
+   */
+
   const router = useRouter();
   const searchParams = useSearchParams();
   const [isProcessing, setIsProcessing] = useState<boolean>(false);
