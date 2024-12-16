@@ -1,4 +1,4 @@
-import { createSlice, PayloadAction } from '@reduxjs/toolkit';
+import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 
 interface WalletState {
   id: number;
@@ -13,21 +13,23 @@ interface WalletState {
 const initialState: WalletState = {
   id: 0,
   userId: null,
-  status: '',
-  walletName: '',
-  walletType: '',
-  walletAddress: '',
+  status: "",
+  walletName: "",
+  walletType: "",
+  walletAddress: "",
   crtTime: null,
 };
 
 // If you want dynamic initialization (e.g., from an API or local storage)
-export const initializeWalletState = (dynamicState: Partial<WalletState>): WalletState => ({
+export const initializeWalletState = (
+  dynamicState: Partial<WalletState>
+): WalletState => ({
   ...initialState,
-  ...dynamicState,  // Override the default values with dynamic values
+  ...dynamicState, // Override the default values with dynamic values
 });
 
 const walletSlice = createSlice({
-  name: 'wallet',
+  name: "wallet",
   initialState,
   reducers: {
     setWallet: (state, action: PayloadAction<WalletState>) => {
@@ -48,6 +50,12 @@ const walletSlice = createSlice({
   },
 });
 
-export const { setWallet, updateWalletName, updateWalletType, updateWalletAddress, resetWallet } = walletSlice.actions;
+export const {
+  setWallet,
+  updateWalletName,
+  updateWalletType,
+  updateWalletAddress,
+  resetWallet,
+} = walletSlice.actions;
 
 export default walletSlice.reducer;

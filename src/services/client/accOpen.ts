@@ -12,9 +12,9 @@ export async function getGetAccOpen(): Promise {
   } catch (error) {
     if (axios.isAxiosError(error)) {
       // Axios error handling
-      // const errorMessage =
-      //   error.response?.data?.msg || "An unexpected error occurred.";
-      // toast.error(errorMessage);
+      const errorMessage =
+        error.response?.data?.msg || "An unexpected error occurred.";
+      toast.error(errorMessage);
       new Error(
         "Axios error during fetching user overview:",
         error.response?.data || error.message

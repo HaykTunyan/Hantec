@@ -44,18 +44,23 @@ const accountsSlice = createSlice({
       state.accounts.push(action.payload);
     },
     updateAccount(state, action: PayloadAction<Account>) {
-      const index = state.accounts.findIndex(account => account.id === action.payload.id);
+      const index = state.accounts.findIndex(
+        (account) => account.id === action.payload.id
+      );
       if (index !== -1) {
         state.accounts[index] = action.payload;
       }
     },
     removeAccount(state, action: PayloadAction<number>) {
-      state.accounts = state.accounts.filter(account => account.id !== action.payload);
+      state.accounts = state.accounts.filter(
+        (account) => account.id !== action.payload
+      );
     },
   },
 });
 
 // Export actions and reducer
-export const { setAccounts, addAccount, updateAccount, removeAccount } = accountsSlice.actions;
+export const { setAccounts, addAccount, updateAccount, removeAccount } =
+  accountsSlice.actions;
 
 export default accountsSlice.reducer;

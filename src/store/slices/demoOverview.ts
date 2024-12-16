@@ -1,4 +1,4 @@
-import { createSlice, PayloadAction } from '@reduxjs/toolkit';
+import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 
 // Define the initial state based on the provided structure
 interface DemoAccountProps {
@@ -31,14 +31,19 @@ const initialState: DemoAccountState = {
 
 // Create the slice
 const demoAccountSlice = createSlice({
-  name: 'demoAccount',
+  name: "demoAccount",
   initialState,
   reducers: {
     setDemoAccount: (state, action: PayloadAction<DemoAccountProps[]>) => {
       state.demoAccount = action.payload;
     },
-    updateDemoBalance: (state, action: PayloadAction<{ id: number; balance: number }>) => {
-      const account = state.demoAccount.find((acc) => acc.id === action.payload.id);
+    updateDemoBalance: (
+      state,
+      action: PayloadAction<{ id: number; balance: number }>
+    ) => {
+      const account = state.demoAccount.find(
+        (acc) => acc.id === action.payload.id
+      );
       if (account) {
         account.balance = action.payload.balance;
       }
@@ -50,5 +55,7 @@ const demoAccountSlice = createSlice({
 });
 
 // Export actions and reducer
-export const { setDemoAccount, updateDemoBalance, resetDemoAccount } = demoAccountSlice.actions;
+export const { setDemoAccount, updateDemoBalance, resetDemoAccount } =
+  demoAccountSlice.actions;
+  
 export default demoAccountSlice.reducer;

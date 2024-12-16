@@ -24,10 +24,9 @@ export async function loginUser(loginData: {
   } catch (error) {
     if (error) {
       toast.error("Error during login");
+      throw new Error("Login failed", error);
       //@ts-ignore
       return error.response.data;
-      // new Error("Error during login:", error);
-      // throw new Error("Login failed"); // Optional: Throw custom error or handle differently
     }
   }
 }

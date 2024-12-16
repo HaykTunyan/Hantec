@@ -1,5 +1,4 @@
 import { clientAPI } from "../clientAxios";
-import axios from "axios";
 import { toast } from "react-toastify";
 
 export const getClientUser = async () => {
@@ -17,6 +16,9 @@ export const getClientUser = async () => {
       data,
     };
   } catch (error: any) {
+    const errorMessage =
+      error.response?.data?.msg || "An unexpected error occurred.";
+    toast.error(errorMessage);
     if (error.response && error.response.status === 401) {
       window.location.href = "/login";
       return null;

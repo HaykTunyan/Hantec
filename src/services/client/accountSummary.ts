@@ -26,9 +26,9 @@ export async function getGetAccountSummary(
     return response.data;
   } catch (error) {
     if (axios.isAxiosError(error)) {
-      // const errorMessage =
-      //   error.response?.data?.msg || "An unexpected error occurred.";
-      // toast.error(errorMessage);
+      const errorMessage =
+        error.response?.data?.msg || "An unexpected error occurred.";
+      toast.error(errorMessage);
       // Axios error handling
       new Error(
         "Axios error during fetching user overview:",

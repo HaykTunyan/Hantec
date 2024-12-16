@@ -7,7 +7,7 @@ interface VerificationState {
 
 // Set the initial state
 const initialState: VerificationState = {
-  isVerified: false,  // Default to not verified
+  isVerified: false, // Default to not verified
 };
 
 // Create the verification slice
@@ -16,7 +16,7 @@ const verificationSlice = createSlice({
   initialState,
   reducers: {
     verify(state) {
-      state.isVerified = true;  // Set verified to true
+      state.isVerified = true; // Set verified to true
     },
     unverify(state) {
       state.isVerified = false; // Set verified to false

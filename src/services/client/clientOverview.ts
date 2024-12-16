@@ -1,6 +1,5 @@
 import { requestAPI } from "../globalAxios";
 import axios from "axios";
-import { useRouter } from "next/navigation";
 import { toast } from 'react-toastify';
 
 interface UserOverviewResponse {
@@ -20,20 +19,15 @@ export async function getUserOverview(
     return response.data;
   } catch (error) {
     if (axios.isAxiosError(error)) {
-      // const errorMessage = error.response?.data?.msg || "An unexpected error occurred.";
-      // toast.error(errorMessage);
+      const errorMessage = error.response?.data?.msg || "An unexpected error occurred.";
+      toast.error(errorMessage);
       // Axios error handling
       new Error(
         "Axios error during fetching user overview:",
         error.response?.data || error.message
       );
 
-      if (error.response?.status === 401) { // Handle Unauthorized status
-        // Clear tokens and redirect to login
-        // localStorage.removeItem("refreshToken");
-        // localStorage.removeItem("accessToken");
-        // localStorage.removeItem("user_id");
-        // useRouter().replace("/login")
+      if (error.response?.status === 401) {
         toast.error("Your Token is Expired , Please Log Out");
       }
       throw new Error("Failed to fetch user overview due to server error");
